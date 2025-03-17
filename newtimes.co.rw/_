@@ -1,0 +1,62 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <style type="text/css">
+        .centerBox {
+            border-radius: 7px;
+            border: 1px solid #E2E2E2;
+            width: 500px;
+            height: 250px;
+            position: absolute;
+            margin: auto;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+        }
+
+        .logoImage {
+            width: 250px;
+            padding-bottom: 15px;
+            display: block;
+            margin: 0 auto;
+        }
+
+        .headLbl {
+            color: #404040;
+            font: 18px Franklin Gothic;
+        }
+
+        .subheadLbl {
+            color: #CCCCCC;
+            font: 18px Franklin Gothic;
+        }
+    </style>
+    <title>Cookies check</title>
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="The New Times Publication 2024" />
+    <meta property="og:description" content="The New Times Publication 2024 - 02/12/2024" />
+    <meta property="og:image" content="https://edition.pagesuite.com/get_image.aspx?w=280&eid=48c062e1-0be9-4a2b-a620-eb1361c41ec6&pnum=1" />
+	
+</head>
+<body>
+    <form method="post" action="./cookie_check.aspx?pubname=&amp;pbid=7ccaf847-40e0-43fd-bf3b-67e83f4cc284&amp;error=1&amp;debug=7ccaf847-40e0-43fd-bf3b-67e83f4cc284" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTk2MTU1MDc1OWRkgxF6cmGtJqnjyO7INIMXSOQ+A/0=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BB83A97F" />
+        <div class="centerBox">
+            <div style="text-align:center;">
+                <div id="headerDiv" style="background-color: #FDECEB; height: 15px; margin-bottom: 40px;"></div>
+                <img id="logoImg" class="logoImage" src="img/PageSuite-Primary-Logo.png" alt="Pagesuite Logo" />
+                <span id="headLbl" class="headLbl" style="margin-bottom:10px;">This publication could not be displayed</span>
+                <br />
+                <span id="subheadLbl" class="subheadLbl">Please enable your cookies</span>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

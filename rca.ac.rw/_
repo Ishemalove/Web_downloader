@@ -1,0 +1,1100 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    
+    <title>Rwanda Coding Academy</title>
+    
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+    
+    <link rel="stylesheet" type="text/css" href="css/edua-icons.css">
+    
+    <link rel="stylesheet" type="text/css" href="css/animate.min.css">
+    
+    <link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
+    
+    <link rel="stylesheet" type="text/css" href="css/owl.transitions.css">
+    
+    <link rel="stylesheet" type="text/css" href="css/cubeportfolio.min.css">
+    
+    <link rel="stylesheet" type="text/css" href="css/settings.css">
+    
+    <link rel="stylesheet" type="text/css" href="css/bootsnav.css">
+    
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    
+    <link rel="stylesheet" type="text/css" href="css/loader.css">
+    
+    
+    
+    <link rel="icon" href="images/favicon.png">
+    
+    
+    
+    <!--[if lt IE 9]>
+    
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    
+    <![endif]-->
+    
+    </head>
+    
+    
+    
+    <body>
+    
+        <a href="#" class="scrollToTop"><i class="fa fa-angle-up"></i></a>
+        
+        <!--Loader-->
+        
+        <div class="loader">
+        
+          <div class="bouncybox">
+        
+              <div class="bouncy"></div>
+        
+            </div>
+        
+        </div>
+        
+        
+        
+        <!--TOPBAR-->
+        
+        <div class="topbar">
+
+  <div class="container">
+
+    <div class="row">
+
+      <div class="col-md-12">
+
+        <div class="pull-left">
+
+        <span class="info"><a href="#.">Contact Us: </a></span>
+
+        <span class="info"><i class="icon-phone2"></i>(250) 788-548-000</span>
+
+        <span class="info"><i class="icon-mail"></i>info@rca.ac.rw</span>
+
+        </div>
+
+        <ul class="social_top pull-right">
+
+          <li><a target="new" href="https://rcagroupworkspace.slack.com/messages/CG3A11ZNG/team/UG5KU4JQ2/"><i class="fa fa-slack"></i></a></li>
+          
+          <li><a target="new" href="https://facebook.com/Rwanda-Coding-Academy-RCA-112111193979259"><i class="fa fa-facebook"></i></a></li>
+
+          <li><a target="new" href="https://twitter.com/RwCodingAcademy"><i class="icon-twitter4"></i></a></li>
+
+
+        </ul>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</div>        
+        <!--TOPBAR ends-->
+        
+        
+        
+        <!--Header-->
+        
+        <header>
+        
+          <nav class="navbar navbar-default navbar-fixed white no-background bootsnav">
+        
+            <div class="container"> 
+        
+               <div class="search_btn btn_common"><i class="icon-icons185"></i></div>
+        
+                  <div class="navbar-header">
+            
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+            
+                      <i class="fa fa-bars"></i>
+            
+                    </button>
+            
+                    <a class="navbar-brand" href="./">
+                        <img src="images/logo-white-rca.png" alt="logo" class="logo logo-display">
+                        <img src="images/logo-rca.png" class="logo logo-scrolled" alt="">
+            
+                    </a>
+            
+                  </div>
+        
+              <div class="collapse navbar-collapse" id="navbar-menu">
+        
+                <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOut">
+
+
+
+        		   
+        		   <li>
+        		       
+        		       <a href="about-us.php">About Us</a>
+        		       
+        		  </li>
+        		  
+        		   <li>
+        		       
+        		       <a href="https://foreach.benax.rw/?go=ebooks">eBooks</a>
+        		       
+        		  </li>         		  
+                    
+                <!--    
+        		  <li>
+        		       <a href="./downloads/Babyeyi-2022.pdf">Babyeyi</a>
+        		  </li>        		  
+                -->
+        		   <li>
+        		       
+        		       <a href="admissions.php">Admissions</a>
+        		       
+        		  </li> 
+
+        		   <li>
+        		       
+        		       <a href="extracurricular.php">ExtraCurricular</a>
+        		       
+        		  </li>   
+        		  
+
+        		   <li>
+        		       
+        		       <a target="new" href="https://moodle.benax.rw">Moodle</a>
+        		       
+        		  </li>        		  
+
+        		   <li>
+        		       
+        		       <a target="new" href="https://foreach.benax.rw">forEach</a>
+        		       
+        		  </li>         		 
+        
+                </ul>
+        
+              </div>
+        
+            </div>   
+        
+          </nav>
+        
+        </header>
+        
+        
+        
+        
+        
+        <!--Search-->
+        
+        <div id="search">
+        
+          <button type="button" class="close">×</button>
+        
+          <form>
+        
+            <input type="search" value="" placeholder="Search here...."  required/>
+        
+            <button type="submit" class="btn btn_common blue">Search</button>
+        
+          </form>
+        
+        </div>
+        
+        
+        
+        <!--Slider-->
+        
+        <section class="rev_slider_wrapper text-center">			
+        
+        <!-- START REVOLUTION SLIDER 5.0 auto mode -->
+        
+          <div id="rev_slider" class="rev_slider"  data-version="5.0">
+        
+            <ul>
+                
+                    <li data-transition="fade">
+            <img src="images/eBooks.jpg"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgparallax="10" class="rev-slidebg">							
+                <div class="tp-caption tp-resizeme" 							
+                
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['326','270','270','150']" data-voffset="['0','0','0','0']"						
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','on','on']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" 
+                
+                        data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
+                
+                        data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"							 
+                
+                        data-start="800"><h1>Collection of eBooks</h1>
+            
+                    </div>
+        
+                    <div class="tp-caption tp-resizeme" 							
+            
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['380','340','300','350']" data-voffset="['0','0','0','0']"
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','off','off']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="opacity:0;s:1000;e:Power2.easeInOut;" 
+                
+                        data-transform_out="opacity:0;s:1000;s:1000;"
+                
+                        data-start="1200"><p></p>
+            
+                    </div>
+        
+                    <div class="tp-caption  tp-resizeme" 							
+                
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['450','390','350','250']" data-voffset="['0','0','0','0']"							
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','on','on']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" 
+                
+                        data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" 
+                
+                        data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
+                
+                        data-mask_out="x:0;y:0;s:inherit;e:inherit;" 							 
+                
+                        data-start="2000">
+                
+                        <a target="new" href="https://foreach.benax.rw/?go=ebooks" class="border_radius btn_common white_border">See details...</a>
+            
+                    </div>
+        
+              </li>        
+        
+                <li data-transition="fade">
+            <img src="images/Amb-Israel-Ron-Adam.JPG"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgparallax="10" class="rev-slidebg">							
+                <div class="tp-caption tp-resizeme" 							
+                
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['326','270','270','150']" data-voffset="['0','0','0','0']"						
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','on','on']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" 
+                
+                        data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
+                
+                        data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"							 
+                
+                        data-start="800"><h1>Amb. of Israel to Rwanda visits RCA</h1>
+            
+                    </div>
+        
+                    <div class="tp-caption tp-resizeme" 							
+            
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['380','340','300','350']" data-voffset="['0','0','0','0']"
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','off','off']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="opacity:0;s:1000;e:Power2.easeInOut;" 
+                
+                        data-transform_out="opacity:0;s:1000;s:1000;"
+                
+                        data-start="1200"><p></p>
+            
+                    </div>
+        
+                    <div class="tp-caption  tp-resizeme" 							
+                
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['450','390','350','250']" data-voffset="['0','0','0','0']"							
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','on','on']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" 
+                
+                        data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" 
+                
+                        data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
+                
+                        data-mask_out="x:0;y:0;s:inherit;e:inherit;" 							 
+                
+                        data-start="2000">
+                
+                        <a target="new" href="https://twitter.com/AmbRonAdam/status/1336773316821053444?s=20" class="border_radius btn_common white_border">See details...</a>
+            
+                    </div>
+        
+              </li>        
+        
+                <li data-transition="fade">
+            <img src="images/09.jpg"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgparallax="10" class="rev-slidebg">							
+                <div class="tp-caption tp-resizeme" 							
+                
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['326','270','270','150']" data-voffset="['0','0','0','0']"						
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','on','on']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" 
+                
+                        data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
+                
+                        data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"							 
+                
+                        data-start="800"><h1>DSSD Program donates AI equipment to RCA</h1>
+            
+                    </div>
+        
+                    <div class="tp-caption tp-resizeme" 							
+            
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['380','340','300','350']" data-voffset="['0','0','0','0']"
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','off','off']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="opacity:0;s:1000;e:Power2.easeInOut;" 
+                
+                        data-transform_out="opacity:0;s:1000;s:1000;"
+                
+                        data-start="1200"><p>2020-08-25:: Olaf Seidel (right) <br>DSSD Program Director</p>
+            
+                    </div>
+        
+                    <div class="tp-caption  tp-resizeme" 							
+                
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['450','390','350','250']" data-voffset="['0','0','0','0']"							
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','on','on']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" 
+                
+                        data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" 
+                
+                        data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
+                
+                        data-mask_out="x:0;y:0;s:inherit;e:inherit;" 							 
+                
+                        data-start="2000">
+                
+                        <a target="new" href="https://twitter.com/DigiCenterRW/status/1298196138458255361?s=20" class="border_radius btn_common white_border">See details...</a>
+            
+                    </div>
+        
+              </li>        
+        
+                <li data-transition="fade">
+            <img src="images/visit-to-DMM-Hehe.jpg"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgparallax="10" class="rev-slidebg">							
+                <div class="tp-caption tp-resizeme" 							
+                
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['326','270','270','150']" data-voffset="['0','0','0','0']"						
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','on','on']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" 
+                
+                        data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
+                
+                        data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"							 
+                
+                        data-start="800"><h1>RCA Students visits DMM Hehe</h1>
+            
+                    </div>
+        
+                    <div class="tp-caption tp-resizeme" 							
+            
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['380','340','300','350']" data-voffset="['0','0','0','0']"
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','off','off']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="opacity:0;s:1000;e:Power2.easeInOut;" 
+                
+                        data-transform_out="opacity:0;s:1000;s:1000;"
+                
+                        data-start="1200"><p>On 2019-12-18<br> during an Industrial Visit</p>
+            
+                    </div>
+        
+                    <div class="tp-caption  tp-resizeme" 							
+                
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['450','390','350','250']" data-voffset="['0','0','0','0']"							
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','on','on']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" 
+                
+                        data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" 
+                
+                        data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
+                
+                        data-mask_out="x:0;y:0;s:inherit;e:inherit;" 							 
+                
+                        data-start="2000">
+                
+                        <a target="new" href="about-us.php" class="border_radius btn_common white_border">See details...</a>
+            
+                    </div>
+        
+              </li>        
+        
+                <li data-transition="fade">
+            <img src="images/visit-to-DMM-Hehe2.jpg"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgparallax="10" class="rev-slidebg">							
+                <div class="tp-caption tp-resizeme" 							
+                
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['326','270','270','150']" data-voffset="['0','0','0','0']"						
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','on','on']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" 
+                
+                        data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
+                
+                        data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"							 
+                
+                        data-start="800"><h1>RCA Students visits DMM Hehe</h1>
+            
+                    </div>
+        
+                    <div class="tp-caption tp-resizeme" 							
+            
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['380','340','300','350']" data-voffset="['0','0','0','0']"
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','off','off']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="opacity:0;s:1000;e:Power2.easeInOut;" 
+                
+                        data-transform_out="opacity:0;s:1000;s:1000;"
+                
+                        data-start="1200"><p>On 2019-12-18<br> during an Industrial Visit</p>
+            
+                    </div>
+        
+                    <div class="tp-caption  tp-resizeme" 							
+                
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['450','390','350','250']" data-voffset="['0','0','0','0']"							
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','on','on']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" 
+                
+                        data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" 
+                
+                        data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
+                
+                        data-mask_out="x:0;y:0;s:inherit;e:inherit;" 							 
+                
+                        data-start="2000">
+                
+                        <a target="new" href="about-us.php" class="border_radius btn_common white_border">See details...</a>
+            
+                    </div>
+        
+              </li>        
+        
+                <li data-transition="fade">
+            <img src="images/06.jpg"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgparallax="10" class="rev-slidebg">							
+                <div class="tp-caption tp-resizeme" 							
+                
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['326','270','270','150']" data-voffset="['0','0','0','0']"						
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','on','on']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" 
+                
+                        data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
+                
+                        data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"							 
+                
+                        data-start="800"><h1>RCA Inaugurated</h1>
+            
+                    </div>
+        
+                    <div class="tp-caption tp-resizeme" 							
+            
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['380','340','300','350']" data-voffset="['0','0','0','0']"
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','off','off']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="opacity:0;s:1000;e:Power2.easeInOut;" 
+                
+                        data-transform_out="opacity:0;s:1000;s:1000;"
+                
+                        data-start="1200"><p>Date: 2019-Feb-22, Venue: RCA, Nyabihu</p>
+            
+                    </div>
+        
+                    <div class="tp-caption  tp-resizeme" 							
+                
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['450','390','350','250']" data-voffset="['0','0','0','0']"							
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','on','on']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" 
+                
+                        data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" 
+                
+                        data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
+                
+                        data-mask_out="x:0;y:0;s:inherit;e:inherit;" 							 
+                
+                        data-start="2000">
+                
+                        <a target="new" href="about-us.php" class="border_radius btn_common white_border">See details...</a>
+            
+                    </div>
+        
+              </li>        
+        
+                <li data-transition="fade">
+            <img src="images/03.jpg"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgparallax="10" class="rev-slidebg">							
+                <div class="tp-caption tp-resizeme" 							
+                
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['326','270','270','150']" data-voffset="['0','0','0','0']"						
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','on','on']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" 
+                
+                        data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
+                
+                        data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"							 
+                
+                        data-start="800"><h1>Inauguration.</h1>
+            
+                    </div>
+        
+                    <div class="tp-caption tp-resizeme" 							
+            
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['380','340','300','350']" data-voffset="['0','0','0','0']"
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','off','off']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="opacity:0;s:1000;e:Power2.easeInOut;" 
+                
+                        data-transform_out="opacity:0;s:1000;s:1000;"
+                
+                        data-start="1200"><p>Date: 2019-Feb-22, Venue: RCA, Nyabihu</p>
+            
+                    </div>
+        
+                    <div class="tp-caption  tp-resizeme" 							
+                
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['450','390','350','250']" data-voffset="['0','0','0','0']"							
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','on','on']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" 
+                
+                        data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" 
+                
+                        data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
+                
+                        data-mask_out="x:0;y:0;s:inherit;e:inherit;" 							 
+                
+                        data-start="2000">
+                
+                        <a target="new" href="about-us.php" class="border_radius btn_common white_border">See details...</a>
+            
+                    </div>
+        
+              </li>        
+        
+                <li data-transition="fade">
+            <img src="images/01.jpg"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgparallax="10" class="rev-slidebg">							
+                <div class="tp-caption tp-resizeme" 							
+                
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['326','270','270','150']" data-voffset="['0','0','0','0']"						
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','on','on']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" 
+                
+                        data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
+                
+                        data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"							 
+                
+                        data-start="800"><h1>Press Conference</h1>
+            
+                    </div>
+        
+                    <div class="tp-caption tp-resizeme" 							
+            
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['380','340','300','350']" data-voffset="['0','0','0','0']"
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','off','off']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="opacity:0;s:1000;e:Power2.easeInOut;" 
+                
+                        data-transform_out="opacity:0;s:1000;s:1000;"
+                
+                        data-start="1200"><p>Date: 2019-Feb-22, Venue: RCA, Nyabihu</p>
+            
+                    </div>
+        
+                    <div class="tp-caption  tp-resizeme" 							
+                
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['450','390','350','250']" data-voffset="['0','0','0','0']"							
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','on','on']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" 
+                
+                        data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" 
+                
+                        data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
+                
+                        data-mask_out="x:0;y:0;s:inherit;e:inherit;" 							 
+                
+                        data-start="2000">
+                
+                        <a target="new" href="about-us.php" class="border_radius btn_common white_border">See details...</a>
+            
+                    </div>
+        
+              </li>        
+        
+                <li data-transition="fade">
+            <img src="images/05.jpg"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgparallax="10" class="rev-slidebg">							
+                <div class="tp-caption tp-resizeme" 							
+                
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['326','270','270','150']" data-voffset="['0','0','0','0']"						
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','on','on']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" 
+                
+                        data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
+                
+                        data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"							 
+                
+                        data-start="800"><h1>Inside Our Classrooms</h1>
+            
+                    </div>
+        
+                    <div class="tp-caption tp-resizeme" 							
+            
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['380','340','300','350']" data-voffset="['0','0','0','0']"
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','off','off']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="opacity:0;s:1000;e:Power2.easeInOut;" 
+                
+                        data-transform_out="opacity:0;s:1000;s:1000;"
+                
+                        data-start="1200"><p>Designed to facilitate Competence Based Learning</p>
+            
+                    </div>
+        
+                    <div class="tp-caption  tp-resizeme" 							
+                
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['450','390','350','250']" data-voffset="['0','0','0','0']"							
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','on','on']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" 
+                
+                        data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" 
+                
+                        data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
+                
+                        data-mask_out="x:0;y:0;s:inherit;e:inherit;" 							 
+                
+                        data-start="2000">
+                
+                        <a target="new" href="about-us.php" class="border_radius btn_common white_border">See details...</a>
+            
+                    </div>
+        
+              </li>        
+        
+                <li data-transition="fade">
+            <img src="images/08.JPG"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgparallax="10" class="rev-slidebg">							
+                <div class="tp-caption tp-resizeme" 							
+                
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['326','270','270','150']" data-voffset="['0','0','0','0']"						
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','on','on']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" 
+                
+                        data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" 
+                
+                        data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"							 
+                
+                        data-start="800"><h1>Supportive Parents</h1>
+            
+                    </div>
+        
+                    <div class="tp-caption tp-resizeme" 							
+            
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['380','340','300','350']" data-voffset="['0','0','0','0']"
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','off','off']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="opacity:0;s:1000;e:Power2.easeInOut;" 
+                
+                        data-transform_out="opacity:0;s:1000;s:1000;"
+                
+                        data-start="1200"><p>Seamlessly collaborating with us on the education <br>of their children</p>
+            
+                    </div>
+        
+                    <div class="tp-caption  tp-resizeme" 							
+                
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                
+                        data-y="['450','390','350','250']" data-voffset="['0','0','0','0']"							
+                
+                        data-responsive_offset="on"
+                
+                        data-visibility="['on','on','on','on']"
+                
+                        data-transform_idle="o:1;"
+                
+                        data-transform_in="y:[-200%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" 
+                
+                        data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;" 
+                
+                        data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
+                
+                        data-mask_out="x:0;y:0;s:inherit;e:inherit;" 							 
+                
+                        data-start="2000">
+                
+                        <a target="new" href="about-us.php" class="border_radius btn_common white_border">See details...</a>
+            
+                    </div>
+        
+              </li>        
+        
+                      
+        
+            </ul>				
+        
+          </div>
+        
+          
+        
+          <!-- END REVOLUTION SLIDER -->
+        
+        </section>	
+        
+        
+        <!--FOOTER-->
+        
+        <footer class="padding-top">
+
+  <div class="container">
+
+    <div class="row">
+
+      <div class="col-md-4 col-sm-4 footer_panel bottom25">
+
+        <h3 class="heading bottom25">About Us<span class="divider-left"></span></h3>
+
+        <a href="./" class="footer_logo bottom25"><img src="images/motto-rca.png" alt="RCA"></a>
+
+        <p>We are a special model school incepted by the Government of Rwanda 
+to teach Software Development, Embedded Systems Programming,  and Cyber-Security.<br> 
+<ul class="links">
+<li><a href="about-us.php">Read more about us<i style="margin-left: 3px" class="icon-chevron-small-right"></i></a></li>
+</ul>
+</p>        
+         <ul class="social_icon top25">
+
+          <li><a target="new" href="https://rcagroupworkspace.slack.com/messages/CG3A11ZNG/team/UG5KU4JQ2/" class="slack"><i class="fa fa-slack"></i></a></li>
+ 
+          <li><a target="new" href="https://facebook.com/Rwanda-Coding-Academy-RCA-112111193979259" class="facebook"><i class="fa fa-facebook"></i></a></li>
+
+          <li><a target="new" href="https://twitter.com/RwCodingAcademy" class="twitter"><i class="icon-twitter4"></i></a></li>
+
+
+
+        </ul>
+
+      </div>
+
+      <div class="col-md-4 col-sm-4 footer_panel bottom25">
+
+        <h3 class="heading bottom25">Quick Links<span class="divider-left"></span></h3>
+
+        <ul class="links">
+
+          <li><a href="./"><i class="icon-chevron-small-right"></i>Home</a></li>
+
+          <li><a href="about-us.php"><i class="icon-chevron-small-right"></i>About Us</a></li>
+
+          <li><a href="admissions.php"><i class="icon-chevron-small-right"></i>Admissions</a></li>
+          
+          <li><a href="extracurricular.php"><i class="icon-chevron-small-right"></i>ExtraCurricular</a></li>
+          
+          <li><a href="#."><i class="icon-chevron-small-right"></i>Instructors</a></li>
+
+          <li><a href="#."><i class="icon-chevron-small-right"></i>Contact Us</a></li>
+
+        </ul>
+
+      </div>
+
+      <div class="col-md-4 col-sm-4 footer_panel bottom25">
+
+        <h3 class="heading bottom25">Keep in Touch <span class="divider-left"></span></h3>
+
+        <p class=" address"><i class="icon-map-pin"></i>Musanze-Rubavu Road, Mukamira Sector, Nyabihu District, Rwanda</p>
+
+        <p class=" address"><i class="icon-phone"></i>((250) 788-548-000</p>
+
+        <p class=" address"><i class="icon-mail"></i><a href="mailto:info@rca.ac.rw">info@rca.ac.rw</a></p>
+
+        <img src="images/footer-map-rca.png" alt="we are here" class="img-responsive">
+
+      </div>
+
+    </div>
+
+  </div>
+
+</footer>
+
+<div class="copyright">
+
+  <div class="container">
+
+    <div class="row">
+
+      <div class="col-md-12 text-center">
+
+        <p>Copyright &copy; 2024<a href="./"> Rwanda Coding Academy</a>. All rights reserved.</p>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
+        
+        <!--FOOTER ends-->
+        
+        
+        
+        
+        
+        
+        <script src="js/jquery-2.2.3.js"></script>
+        
+        <script src="js/bootstrap.min.js"></script>
+        
+        <script src="js/bootsnav.js"></script>
+        
+        <script src="js/jquery.appear.js"></script>
+        
+        <script src="js/jquery-countTo.js"></script>
+        
+        <script src="js/jquery.parallax-1.1.3.js"></script>
+        
+        <script src="js/owl.carousel.min.js"></script>
+        
+        <script src="js/jquery.cubeportfolio.min.js"></script>
+        
+        <script src="js/jquery.themepunch.tools.min.js"></script>
+        
+        <script src="js/jquery.themepunch.revolution.min.js"></script>
+        
+        <script src="js/revolution.extension.layeranimation.min.js"></script>
+        
+        <script src="js/revolution.extension.navigation.min.js"></script>
+        
+        <script src="js/revolution.extension.parallax.min.js"></script>
+        
+        <script src="js/revolution.extension.slideanims.min.js"></script>
+        
+        <script src="js/revolution.extension.video.min.js"></script>
+        
+        <script src="js/wow.min.js"></script>
+        
+        <script src="js/functions.js"></script>
+        
+        
+        
+    </body>
+
+</html>
+

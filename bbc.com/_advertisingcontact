@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <title>BBC Advertising Sales Contact - Breaking News, World News, U.S. News, Sports, Business, Innovation, Climate, Culture, Travel, Video &amp; Audio</title>
+  <link
+    rel="preload"
+    href="https://www.bbc.com/advertisingcontact/fonts/woff2/BBCReithSans_W_Rg.woff2"
+    as="font"
+    type="font/woff2"
+    crossorigin
+  />
+  <link
+    rel="preload"
+    href="https://www.bbc.com/advertisingcontact/fonts/woff2/BBCReithSerif_W_Rg.woff2"
+    as="font"
+    type="font/woff2"
+    crossorigin
+  />
+  <link
+    rel="preload"
+    href="https://www.bbc.com/advertisingcontact/fonts/woff2/BBCReithSerif_W_Md.woff2"
+    as="font"
+    type="font/woff2"
+    crossorigin
+  />
+  <link
+    rel="preload"
+    href="https://www.bbc.com/advertisingcontact/fonts/woff2/BBCReithSans_W_Bd.woff2"
+    as="font"
+    type="font/woff2"
+    crossorigin
+  />
+  <link
+    rel="preload"
+    href="https://www.bbc.com/advertisingcontact/fonts/woff2/BBCReithSerif_W_Bd.woff2"
+    as="font"
+    type="font/woff2"
+    crossorigin
+  />
+  <link
+    rel="icon"
+    type="image/x-icon"
+    href="./favicon.ico"
+  />
+  <meta charset="UTF-8"/>
+  <meta
+    name="robots"
+    content="noindex, nofollow"
+  />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  />
+  <meta
+    name="description"
+    content="Visit BBC for trusted reporting on the latest world and U.S. news, sports, business, climate, innovation, culture and much more."
+  />
+  <meta
+    property="og:title"
+    content="BBC Advertising Sales Contact - Breaking News, World News, U.S. News, Sports, Business, Innovation, Climate, Culture, Travel, Video &amp; Audio"
+  />
+  <meta
+    property="og:description"
+    content="Visit BBC for trusted reporting on the latest world and U.S. news, sports, business, climate, innovation, culture and much more."
+  />
+  <meta
+    property="og:image"
+    content="https://www.bbc.com/advertisingcontact/images/opengraph.png"
+  />
+  <meta property="twitter:card" content="summary_large_image">
+  <meta
+    name="twitter:site"
+    content="BBC"
+  />
+  <meta
+    name="twitter:title"
+    content="BBC Advertising Sales Contact - Breaking News, World News, U.S. News, Sports, Business, Innovation, Climate, Culture, Travel, Video &amp; Audio"
+  />
+  <meta
+    name="twitter:description"
+    content="Visit BBC for trusted reporting on the latest world and U.S. news, sports, business, climate, innovation, culture and much more."
+  />
+  <meta
+    name="twitter:image"
+    content="https://www.bbc.com/advertisingcontact/images/opengraph.png"
+  />
+  <link
+    rel="stylesheet"
+    href="https://www.bbc.com/advertisingcontact/css/styles.css"
+  />
+  <link
+    rel="stylesheet"
+    href="https://www.bbc.com/advertisingcontact/css/styles-responsive.css"
+  />
+</head>
+<body>
+<header>
+  <a
+    id="header-anchor-logo"
+    href="https://www.bbc.com/"
+  ><img
+    alt="BBC"
+    src="https://www.bbc.com/advertisingcontact/images/bbc-logo.svg"
+    style="aspect-ratio: 150/30;"
+  /></a>
+</header>
+
+<main>
+  <div
+    class='container'
+    id='container-content'
+  >
+    <div class='gap h-40'></div>
+
+    <h1 id="title">Contact Us</h1>
+
+    <div class='gap h-24'></div>
+
+    <div id='contact-container'>
+      <div class='gap h-48'></div>
+      <p id='intro'>
+        Ad Sales Contacts in the Americas
+      </p>
+      <div class='gap h-48 desktop-only'></div>
+
+      <div id='contact-wrapper'>
+        <div>
+          <h2>North America and Latin America</h2>
+          <div class='gap h-8'></div>
+          <p>
+            Tim Wastney<br/>
+            212.339.1775<br/>
+            <a href="mailto:Tim.Wastney@bbc.com">Tim.Wastney@bbc.com</a>
+          </p>
+        </div>
+        <div>
+          <h2>US East Coast & Central</h2>
+          <div class='gap h-8'></div>
+          <p>
+            Jacqueline Greichen<br/>
+            303.912.1668<br/>
+            <a href="mailto:Jacqueline.Greichen@bbc.com">Jacqueline.Greichen@bbc.com</a>
+          </p>
+        </div>
+        <div>
+          <h2>US West Coast</h2>
+          <div class='gap h-8'></div>
+          <p>
+            Ahang Ghorban<br/>
+            925.708.2240<br/>
+            <a href="mailto:Ahang.Ghorban@bbc.com">Ahang.Ghorban@bbc.com</a>
+          </p>
+        </div>
+        <div>
+          <h2>Canada</h2>
+          <div class='gap h-8'></div>
+          <p>
+            Christina Galonska<br/>
+            416.204.0513<br/>
+            <a href="mailto:Christina.Galonska@bbc.com">Christina.Galonska@bbc.com</a>
+          </p>
+        </div>
+      </div>
+
+      <div class='gap h-48'></div>
+
+    </div>
+
+
+    <div id='contact-container'>
+      <div class='gap h-48'></div>
+      <p id='intro'>
+        Ad Sales Contacts in the Middle East, North Africa and Mediterranean
+      </p>
+      <div class='gap h-48 desktop-only'></div>
+
+      <div id='contact-wrapper'>
+        <div>
+          <div class='gap h-8'></div>
+          <p>
+            Ali Taher<br/>
+            <a href="mailto:Ali.Taher@bbc.com">Ali.Taher@bbc.com</a>
+          </p>
+        </div>
+      </div>
+
+      <div class='gap h-48'></div>
+
+    </div>
+
+    <div id='contact-container'>
+      <div class='gap h-48'></div>
+      <p id='intro'>
+        Ad Sales Contacts in Europe and Africa
+      </p>
+      <div class='gap h-48 desktop-only'></div>
+
+      <div id='contact-wrapper'>
+        <div>
+          <div class='gap h-8'></div>
+          <p>
+            Isla Macleod<br/>
+            <a href="mailto:Isla.Macleod@bbc.com">Isla.Macleod@bbc.com</a>
+          </p>
+        </div>
+      </div>
+
+      <div class='gap h-48'></div>
+
+    </div>
+    <div id='contact-container'>
+      <div class='gap h-48'></div>
+      <p id='intro'>
+        Ad Sales Contacts in Western Europe
+      </p>
+      <div class='gap h-48 desktop-only'></div>
+
+      <div id='contact-wrapper'>
+        <div>
+          <div class='gap h-8'></div>
+          <p>
+            Samantha Adams<br/>
+            <a href="mailto:Samantha.Adams@bbc.com">Samantha.Adams@bbc.com</a>
+          </p>
+        </div>
+      </div>
+
+      <div class='gap h-48'></div>
+
+    </div>
+
+    <div id='contact-container'>
+      <div class='gap h-48'></div>
+      <p id='intro'>
+        Ad Sales Contacts in Australia & New Zealand
+      </p>
+      <div class='gap h-48 desktop-only'></div>
+
+      <div id='contact-wrapper'>
+        <div>
+          <div class='gap h-8'></div>
+          <p>
+            Jamie Chambers<br/>
+            +61 297444620<br/>
+            <a href="mailto:Jamie.Chambers@bbc.com">Jamie.Chambers@bbc.com</a>
+          </p>
+        </div>
+      </div>
+
+      <div class='gap h-48'></div>
+
+    </div>
+
+    <div id='contact-container'>
+      <div class='gap h-48'></div>
+      <p id='intro'>
+        Ad Sales Contacts in Greater China, South Korea, Philippines
+      </p>
+      <div class='gap h-48 desktop-only'></div>
+
+      <div id='contact-wrapper'>
+        <div>
+          <div class='gap h-8'></div>
+          <p>
+            Katy Xu<br/>
+            +852 2248 0060<br/>
+            <a href="mailto:Katy.Xu@bbc.com ">Katy.Xu@bbc.com</a>
+          </p>
+        </div>
+      </div>
+
+      <div class='gap h-48'></div>
+
+    </div>
+
+    <div id='contact-container'>
+      <div class='gap h-48'></div>
+      <p id='intro'>
+        Ad Sales Contacts in Japan
+      </p>
+      <div class='gap h-48 desktop-only'></div>
+
+      <div id='contact-wrapper'>
+        <div>
+          <div class='gap h-8'></div>
+          <p>
+            Maki Kajiyama<br/>
+            +81 362050750<br/>
+            <a href="mailto:Maki.Kajiyama@bbc.com ">Maki.Kajiyama@bbc.com</a>
+          </p>
+        </div>
+      </div>
+
+      <div class='gap h-48'></div>
+
+    </div>
+
+    <div id='contact-container'>
+      <div class='gap h-48'></div>
+      <p id='intro'>
+        Ad Sales Contacts in Singapore & SEA
+      </p>
+      <div class='gap h-48 desktop-only'></div>
+
+      <div id='contact-wrapper'>
+        <div>
+          <div class='gap h-8'></div>
+          <p>
+            John Williams<br/>
+            +65 65074248<br/>
+            <a href="mailto:John.Williams@bbc.com ">John.Williams@bbc.com</a>
+          </p>
+        </div>
+      </div>
+
+      <div class='gap h-48'></div>
+
+    </div>
+
+  </div>
+
+  <div class='gap h-80'></div>
+
+</main>
+
+<footer>
+  <div id='footer-inner'>
+
+    <div class='gap h-16'></div>
+
+    <div id='footer-links'>
+      <a
+        href="https://www.bbc.co.uk/usingthebbc/terms"
+      >
+        Terms of use
+      </a>
+      <a
+        href="https://www.bbc.co.uk/aboutthebbc"
+      >
+        About the BBC
+      </a>
+      <a
+        href="https://www.bbc.com/usingthebbc/privacy/"
+      >
+        Privacy Policy
+      </a>
+      <a
+        href="https://www.bbc.com/usingthebbc/cookies/"
+      >
+        Cookies
+      </a>
+      <a
+        href="https://www.bbc.co.uk/accessibility/"
+      >
+        Accessibility Help
+      </a>
+      <a
+        href="https://www.bbc.co.uk/contact"
+      >
+        Contact the BBC
+      </a>
+      <a
+        href="https://www.bbc.com/advertisingcontact"
+      >
+        Advertise with us
+      </a>
+      <a
+        href="https://www.bbc.com/usingthebbc/cookies/how-can-i-change-my-bbc-cookie-settings/"
+      >
+        AdChoices/ Do Not Sell My Info
+      </a>
+    </div>
+
+    <div class='gap h-12'></div>
+
+    <div id="footer-copyright">
+      <span id="copyright">Copyright &copy; 2024 BBC</span>
+    </div>
+
+    <div class='gap h-12'></div>
+
+    <div id='footer-disclaimer'>
+      All rights reserved. The BBC is not responsible for the content of external sites. <a href="https://www.bbc.co.uk/editorialguidelines/guidance/feeds-and-links">Read about our approach to external linking.</a><br/>
+    </div>
+
+    <div class='gap h-48'></div>
+  </div>
+</footer>
+</body>
+</html>

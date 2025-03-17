@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html class="no-js">
+<!--<![endif]-->
+<head>
+<script src="https://kit.fontawesome.com/fb5307d372.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://tag.aticdn.net/js-sdk/piano-analytics-6.9.0.js"></script>
+<script>
+pa.setConfigurations({
+  site: 598308,
+  collectDomain: "https://a1.api.bbc.co.uk",
+  path: "footballextra-newsletter-signup",
+  addEventURL: "true",
+  sendEventWhenOptout: true,
+  campaignPrefix:["at_"],
+  enableUTMTracking:true
+});
+</script>
+<style type="text/css">
+   @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+  @media {
+@font-face {
+  font-family: 'bbcreithsansabd';
+  src: url('https://images.emlcdn.net/cdn/86/QHf1d86b2/bbcreithsansabd.eot');
+  src: url('https://images.emlcdn.net/cdn/86/QHf1d86b2/bbcreithsansabd.eot') format('embedded-opentype'), url('https://images.emlcdn.net/cdn/86/QHf1d86b2/bbcreithsansabd.woff2') format('woff2'), url('https://images.emlcdn.net/cdn/86/QHf1d86b2/bbcreithsansabd.woff') format('woff'), url('https://images.emlcdn.net/cdn/86/QHf1d86b2/bbcreithsansabd.ttf') format('truetype'), url('https://images.emlcdn.net/cdn/86/QHf1d86b2/bbcreithsansabd.svg#bbcreithsansabd') format('svg');
+  }
+  @font-face {
+  font-family: 'bbcreithsansalt';
+  src: url('https://images.emlcdn.net/cdn/86/QHf1d86b2/bbcreithsansalt1.eot');
+  src: url('https://images.emlcdn.net/cdn/86/QHf1d86b2/bbcreithsansalt1.eot') format('embedded-opentype'), url('https://images.emlcdn.net/cdn/86/QHf1d86b2/bbcreithsansalt.woff2') format('woff2'), url('https://images.emlcdn.net/cdn/86/QHf1d86b2/bbcreithsansalt.woff') format('woff'), url('https://images.emlcdn.net/cdn/86/QHf1d86b2/bbcreithsansalt.ttf') format('truetype'), url('https://images.emlcdn.net/cdn/86/QHf1d86b2/bbcreithsansalt.svg#bbcreithsansalt') format('svg');
+  }
+  @font-face {
+  font-family: 'bbcreithserifarg';
+  src: url('https://images.emlcdn.net/cdn/86/QHf1d86b2/bbcreithserifarg.eot');
+  src: url('https://images.emlcdn.net/cdn/86/QHf1d86b2/bbcreithserifarg.eot') format('embedded-opentype'), url('https://images.emlcdn.net/cdn/86/QHf1d86b2/bbcreithserifarg.woff2') format('woff2'), url('https://images.emlcdn.net/cdn/86/QHf1d86b2/bbcreithserifarg.woff') format('woff'), url('https://images.emlcdn.net/cdn/86/QHf1d86b2/bbcreithserifarg.ttf') format('truetype'), url('https://images.emlcdn.net/cdn/86/QHf1d86b2/bbcreithserifarg.svg#bbcreithserifarg') format('svg');
+  }
+  }
+</style>
+    <style type="text/css">
+      
+
+        #blq-acc,
+        #blq-mast-background {
+          background-color: #f5f5f6;
+          border-bottom: 1px solid #ccc;
+        }
+
+        .columnWrapper {width:100%; display: flex; flex-direction:row-reverse;  margin: 0 auto;}
+    
+        .column_left_wrapper {
+          float:left;
+          background: url("https://image.email.bbc.com/lib/fe3111727564047f7c1078/m/1/FOOTBALL_EXTRA_signup_525x646-2.jpg") no-repeat center center; background-size: cover;  -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover;
+        height:100vh;
+        flex: 50%;
+          margin-right:100px;
+        }
+
+        .column_right_wrapper {
+          float:right;
+          flex:50%;
+          margin-top:75px;
+          margin-bottom:0px;
+          margin-right:100px;
+          height:auto;
+         
+        
+        }
+    
+        select {
+          position: relative;
+          padding: 0.9em 3em 0.6em 1em;
+          cursor: pointer;
+          -webkit-appearance: none;
+          -moz-appearance: none;
+          -ms-appearance: none;
+          -o-appearance: none;
+          appearance: none;
+        }
+    
+    
+    
+        .checkbox-label {
+          font-family: 'BBC Reith Sans', 'Roboto', Helvetica, Arial, sans-serif;
+          padding-left: 156px;
+          color: #333333 !important;
+          display: block;
+          -webkit-user-select: none;
+          -moz-user-select: none;
+          -ms-user-select: none;
+          user-select: none;
+          cursor: pointer;
+          width: 425px;
+        }
+    
+       
+        .logo {text-align:left; margin: 0;}
+        img {
+         margin: 0 auto;
+          display: block;
+        }
+    
+    
+        p {
+          font-family: 'BBC Reith Sans', 'Roboto', Helvetica, Arial, sans-serif;
+          font-size: 16px;
+          line-height: 20px;
+          font-weight: normal;
+          text-align: left;
+          margin: 0 auto;
+          color: #202224;
+        }
+
+        h2 { font-family: 'BBC Reith Sans', 'Roboto', Helvetica, Arial, sans-serif;
+          font-size: 22px;
+          line-height: 26px;
+          font-weight: normal;
+          text-align: left;
+          margin: 0 auto;
+          color: #202224;
+        padding-bottom:8px;}
+    
+        .center {text-align:center; margin:0 auto; float: none;}
+    
+    
+        .info {
+          font-size: 1.1em;
+          line-height: 1.6em;
+        }
+    
+        .btn {
+          border: none;
+          box-shadow: none;
+          border-radius: 0.25em;
+          font-size: 1.2rem !important;
+          font-family: 'BBC Reith Sans', 'Roboto', Helvetica, Arial, sans-serif;
+          color: #ffffff;
+          padding: 0.2em 0.2em;
+          cursor: pointer;
+          background: #000000;
+          margin: 0em 0em 0em 0em;
+        }
+    
+     
+        .field {
+          padding: 0.75em 1em;
+        }
+    
+    
+       
+        .label_field {
+          font-size: 1.6em;
+          font-weight: bold;
+          color: #535353;
+          display: inline-block;
+          width: 150px;
+          text-align: right;
+          padding-right: 15px;
+        }
+    
+        #landing-page {
+          width: 100%;
+          margin: 0 auto;
+          text-align: left;
+          font-family: 'BBC Reith Sans', 'Roboto', Helvetica, Arial, sans-serif;
+          position:relative;
+        }
+    
+        
+    
+        .iframe {
+          width: 200px;
+          text-align: center;
+          width: 100%;
+        }
+      </style>
+<style type="text/css">
+
+
+
+@media screen and (max-width: 1024px) {
+ .fullwidth, #landing-page {width:100% !important; height:auto !important; margin: 0 auto !important; text-align: center !important;}
+ .columnWrapper {display: block !important; width: 100% !important; height: auto !important;}
+
+ .column_right_wrapper{width:90% !important; height:auto !important; float: none !important;  flex:100% !important; margin-left:auto !important; margin-right:auto !important;}
+ .column_left_wrapper {width:100% !important; height:100vh !important; margin: 0 auto !important; float: none !important; flex:100% !important; }
+  img.fullwidth {width:100% !important; max-width: 100% !important; height:auto !important;}
+  .form-fullwidth {width:100% !important; height: 510px !important;}
+  .header_image {width:320px !important;}
+  .centerme { float: none !important; text-align:center !important; margin: 0 auto !important;}
+
+}
+
+@media screen and (max-height: 800px) {
+    .form-fullwidth {width:100% !important; height: 500px !important;}
+
+}
+</style>
+<meta name="ROBOTS" content="INDEX,FOLLOW">
+<meta name="keywords" content="">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width">
+<title>Football Extra</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+ <!-- Links from Sign Up -->
+ <link rel="stylesheet" href="https://cloud.email.bbc.com/FootballExtra_Newsletter_SignUp_CSS">
+
+</head>
+<body class="subscribe">
+
+    <div class="wrap" style="background:none;">
+      <!-- Content Area for sign up  Start -->
+      <div class="section">
+  
+        <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; margin: 0 auto;">
+  
+          <tr>
+            <td id="landing-page">
+                <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; margin: 0 auto;">
+                    <tr>
+
+                      <td>
+                      <div class="columnWrapper">
+                        <div class="column_right_wrapper">
+                         
+                          <div id="header">
+                            <div style="padding-bottom:24px;"> <a href="https://www.bbc.com/" target="_blank">
+                             <img src="https://image.email.bbc.com/lib/fe3111727564047f7c1078/m/1/285e1ab0-24f8-4d71-a5fe-7393a3509aaf.png" alt="BBC" border="0" style="display: block;  font-family:  Arial, Helvetica, sans-serif; font-weight: normal; text-decoration: none; color: #141414; font-size: 30px; line-height: 36px; width: 105px;" width="105" class="logo" /> </a></div>
+
+                           <div style="padding-bottom:14px; font-family:'bbcreithserifarg',Helvetica,Arial,serif!important; color:#000; font-size:38px; font-weight:400; line-height:42px; text-align: left;"> Football Extra Newsletter </div>
+                           
+      <h2>Get the latest news, insights and gossip from the Premier League.</h2> 
+      <p>Direct to your inbox every weekday from ex-player Pat Nevin and the wider BBC Sport squad.</p>
+                         
+                          
+                          </div>
+
+
+                        <div id="form">
+                         <p align="right">
+                             <iframe  src="https://cloud.email.bbc.com/FootballExtra_SignUp_Form"
+                               width="100%" height="600" style="border-width: 0px;" class="form-fullwidth"></iframe>
+                               
+                           </p>
+                     </div>
+                     
+                        <!-- Content Aera for sign up  End -->
+                        <footer class="desktop-footer">
+                        
+                       </footer>
+                        </div>
+                        <div class="column_left_wrapper">
+                         
+                        </div>
+                      </div>
+            
+
+                     
+
+                      </td>
+                      
+                       
+                    </tr>
+
+                </table>
+            
+                  </td>
+                  </tr>
+          </table>
+        </div>
+  
+  </div>
+  <script language="javascript" src="https://cloud.email.bbc.com/signup_country_region.js"></script>
+<script type="text/javascript">
+pa.sendEvent('page.display', // Event name
+  {
+ 'site_level2': 'Sport',// Event properties (optional)
+ 'page': 'football.extra.page'
+  }
+);
+// Parent page listener for form submit
+window.addEventListener('message', (event) => {
+ pa.sendEvent('click.action', { // With specific properties
+   'click' : 'Subscribe'
+ });
+});
+</script>
+  </body>
+</html>

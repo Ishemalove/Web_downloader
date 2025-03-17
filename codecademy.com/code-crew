@@ -1,0 +1,1461 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="format-detection" content="telephone=no">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="robots" content="noindex,nofollow">
+
+<link rel="canonical" href="https://try.codecademy.com/code-crew">
+
+<link rel="shortcut icon" href="//v.fastcdn.co/u/595c9b42/63930371-0-favicon.svg" type="image/ico">
+<title>Join the Code Crew | Codecademy</title>
+
+    <meta property="og:locale" content="en">
+<meta property="og:type" content="article">
+<meta property="og:title" content="">
+<meta property="og:description" content="">
+<meta property="og:site_name" content="">
+<meta property="og:url" content="https://try.codecademy.com/code-crew">
+
+
+    <link rel="preload" as="script" href="//g.fastcdn.co/js/utils.bcf03997485feb49f2c7.js"></link>
+    <link rel="preload" as="script" href="//g.fastcdn.co/js/Cradle.14973f8f195e25e002ff.js"></link>
+
+
+
+    <!-- Facebook Pixel -->
+<script>
+function setupFBPixel(){
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1036078779778355');
+  fbq('track', 'PageView');
+};
+
+setupFBPixel();
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1036078779778355&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel -->
+
+
+    <!-- Google Tag Manager -->
+<script>
+function setupGTM() {
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KTLK85W');
+}
+
+setupGTM();
+</script>
+<!-- End Google Tag Manager -->
+
+
+
+    
+
+  <style type="text/css" media="screen">
+    body{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;margin:0;width:100%;font-family:Apercu;font-weight:400;background:rgb(245,252,255);}a{text-decoration:none;color:inherit;}a:not(.btn):hover{text-decoration:underline;}input,select,textarea,p,h1,h2,h3,h4,h5,h6{margin:0;font-size:inherit;font-weight:inherit;}u > span{text-decoration:inherit;}ol,ul{padding-left:2.5rem;margin:.625rem 0;}p{word-wrap:break-word;}h1 > span,h2 > span,h3 > span,h4 > span,h5 > span,h6 > span{display:block;word-wrap:break-word;}iframe{border:0;}*{box-sizing:border-box;}:root.js-text-scaling{--mobile-font-size:4vw;--default-font-size:16px;}.item-absolute{position:absolute;}.item-relative{position:relative;}.item-block{display:block;height:100%;width:100%;}.item-cover{z-index:1000030;}.item-breakword{word-wrap:break-word;}.item-content-box{box-sizing:content-box;}.hidden{display:none;}.hidden-step{visibility:hidden;}.clearfix{clear:both;}sup,sub{margin-left:0.1rem;line-height:0;}body#landing-page .visually-hidden{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:none;}@keyframes slide-down{from{opacity:0;transform:translateY(-50px);}}@keyframes fade-in{from{opacity:0;}}@supports (-webkit-overflow-scrolling:touch){@media (-webkit-min-device-pixel-ratio:2), (min-resolution:192dpi){.image[src$=".svg"]{width:calc(100% + 1px);}}}.show-for-sr{border:0 !important;clip:rect(1px,1px,1px,1px) !important;-webkit-clip-path:inset(50%) !important;clip-path:inset(50%) !important;height:1px !important;margin:-1px !important;overflow:hidden !important;padding:0 !important;position:absolute !important;width:1px !important;white-space:nowrap !important;}.headline{font-family:Apercu;font-weight:700;}.btn{line-height:120%;text-align:center;font-family:Apercu;cursor:pointer;transition:border .5s;width:100%;border:0;white-space:normal;display:table-cell;vertical-align:middle;padding:0;}.section-fit{max-width:400px;}[class*="sticky-block-footer"] .section:last-child{bottom:0;z-index:1000015;}[class*="sticky-block-header"] .section:first-child{top:0;z-index:1000015;}.sticky-block-header .section:first-child,.sticky-block-footer .section:last-child{position:sticky;}:root{--section-relative-margin:0 auto;}.section-relative{position:relative;margin:0 auto;}.js-text-scaling .section-relative{margin:var(--section-relative-margin);}.section-inner{height:100%;}#page-block-gcivwbkd3h9{height:5.8125rem;max-width:100%;}#page-block-gcivwbkd3h9 .section-holder-border{border:0;}#page-block-gcivwbkd3h9 .section-block{background:rgb(255,255,255);height:5.8125rem;}#page-block-gcivwbkd3h9 .section-holder-overlay{display:none;}#element-1{top:1.875rem;left:1.25rem;height:2.0625rem;width:9.4375rem;z-index:3;}#page-block-81jpq36f0hd{height:34.6875rem;max-width:100%;}#page-block-81jpq36f0hd .section-holder-border{border:0;}#page-block-81jpq36f0hd .section-block{background:rgb(245,252,255);height:34.6875rem;}#page-block-81jpq36f0hd .section-holder-overlay{display:none;}#element-131{top:17.6875rem;left:1.9375rem;height:14.8125rem;width:21.125rem;z-index:50;}.circle{border-radius:50%;}.shape{height:inherit;}.line-horizontal{height:.625rem;}.line-vertical{height:100%;margin-right:.625rem;}[class*='line-']{box-sizing:content-box;}#element-131 .shape{border:0;border-radius:0 0 0 0;background:url(//v.fastcdn.co/u/595c9b42/63920150-0-CC-HeroBanner-2.jpg) repeat rgb(240,243,245) 50% 50% / cover;}#element-20{top:2.1875rem;left:1.125rem;height:4.5rem;width:22.75rem;z-index:23;color:#37465A;font-size:2.2291rem;line-height:2.25rem;text-align:center;}#element-20 .x_fd7d81e5{text-align:center;line-height:2.25rem;font-size:2.2291rem;}#element-20 .x_7b2817bf{color:#000000;}#element-22{top:8.25rem;left:1.125rem;height:7.25rem;width:22.75rem;z-index:25;color:#37465A;font-size:1.1146rem;line-height:1.8rem;text-align:center;}#element-22 .x_e6507cf2{text-align:center;line-height:1.8125rem;font-size:1.1146rem;}#element-22 .x_7b2817bf{color:#000000;}#page-block-n7878m47ag{height:18.125rem;max-width:100%;}#page-block-n7878m47ag .section-holder-border{border:0;}#page-block-n7878m47ag .section-block{background:rgb(58,16,229);height:18.125rem;}#page-block-n7878m47ag .section-holder-overlay{display:none;}#element-42{top:2.125rem;left:3.125rem;height:3.3125rem;width:3.3125rem;z-index:37;}#element-42 .shape{border:0;background:url(//v.fastcdn.co/u/595c9b42/63887557-0-Impact.svg) repeat rgb(240,243,245) 50% 50% / cover;}#element-45{top:7.3125rem;left:3.125rem;height:3.3125rem;width:3.3125rem;z-index:39;}#element-45 .shape{border:0;background:url(//v.fastcdn.co/u/595c9b42/63887560-0-Perks.svg) repeat rgb(240,243,245) 50% 50% / cover;}#element-48{top:12.625rem;left:3.125rem;height:3.3125rem;width:3.3125rem;z-index:47;}#element-48 .shape{border:0;background:url(//v.fastcdn.co/u/595c9b42/63887561-0-Connections.svg) repeat rgb(240,243,245) 50% 50% / cover;}#element-41{top:3.0625rem;left:7.6875rem;height:1.375rem;width:14.1875rem;z-index:36;color:#37465A;font-size:1.1146rem;line-height:1.35rem;text-align:left;font-weight:700;}#element-41 .x_da6ad2be{text-align:left;line-height:1.375rem;font-size:1.1146rem;}#element-41 .x_f2074b6c{color:#ffffff;}#element-41 strong{font-weight:700;}#element-41.headline{font-weight:700;}#element-44{top:8.25rem;left:7.6875rem;height:1.375rem;width:14.1875rem;z-index:38;color:#37465A;font-size:1.1146rem;line-height:1.35rem;text-align:left;font-weight:700;}#element-44 .x_da6ad2be{text-align:left;line-height:1.375rem;font-size:1.1146rem;}#element-44 .x_f2074b6c{color:#ffffff;}#element-44 strong{font-weight:700;}#element-44.headline{font-weight:700;}#element-47{top:13.5625rem;left:7.6875rem;height:1.375rem;width:14.1875rem;z-index:46;color:#37465A;font-size:1.1146rem;line-height:1.35rem;text-align:left;font-weight:700;}#element-47 .x_da6ad2be{text-align:left;line-height:1.375rem;font-size:1.1146rem;}#element-47 .x_f2074b6c{color:#ffffff;}#element-47 strong{font-weight:700;}#element-47.headline{font-weight:700;}#page-block-xp3lg8geysi{height:19.5625rem;max-width:100%;}#page-block-xp3lg8geysi .section-holder-border{border:0;}#page-block-xp3lg8geysi .section-block{background:rgb(255,255,255);height:19.5625rem;}#page-block-xp3lg8geysi .section-holder-overlay{display:none;}#element-55{top:2.5rem;left:3.5rem;height:1.625rem;width:18.375rem;z-index:48;color:#10162F;font-size:1.6099rem;line-height:1.625rem;text-align:center;font-weight:700;}#element-55 .x_f82204f0{text-align:center;line-height:1.625rem;font-size:1.6099rem;}#element-55 .x_034773b5{color:#10162f;}#element-55 strong{font-weight:700;}#element-55.headline{font-weight:700;}#element-56{top:5.75rem;left:1.5rem;height:11.375rem;width:21.9375rem;z-index:49;color:#3A10E5;font-size:0.9907rem;line-height:1.6rem;text-align:center;}#element-56 .contents a{color:#3A10E5;}#element-56 .x_dc68832a{text-align:center;line-height:1.625rem;font-size:0.9907rem;}#element-56 .x_034773b5{color:#10162f;}#element-56 strong{font-weight:700;}#page-block-2mv6yynvczn{height:112rem;max-width:100%;}#page-block-2mv6yynvczn .section-holder-border{border:0;}#page-block-2mv6yynvczn .section-block{background:rgb(245,252,255);height:112rem;}#page-block-2mv6yynvczn .section-holder-overlay{display:none;}#element-279{top:2.5rem;left:1rem;height:2.25rem;width:22.5rem;z-index:59;color:#37465A;font-size:1.6099rem;line-height:2.275rem;text-align:center;}#element-279 .x_47b745f5{text-align:center;line-height:2.25rem;font-size:1.6099rem;}#element-279 .x_7b2817bf{color:#000000;}#element-280{top:7.25rem;left:7.5rem;height:9.75rem;width:10rem;z-index:61;}#element-281{top:18.25rem;left:1.25rem;height:8.75rem;width:22.5rem;z-index:62;color:#37465A;font-size:1.2384rem;line-height:1.75rem;text-align:left;}#element-281 .x_b558b569{text-align:left;line-height:1.75rem;font-size:1.2384rem;}#element-281 .x_034773b5{color:#10162f;}#element-282{top:28.25rem;left:1.25rem;height:2.5rem;width:17.5rem;z-index:63;color:#37465A;font-size:0.8669rem;line-height:1.225rem;text-align:left;}#element-282 .x_47a309de{text-align:left;line-height:1.25rem;font-size:0.8669rem;}#element-282 .x_034773b5{color:#10162f;}#element-283{top:33.25rem;left:7.5rem;height:9.75rem;width:10rem;z-index:64;}#element-284{top:44.875rem;left:1.25rem;height:7rem;width:22.5rem;z-index:65;color:#37465A;font-size:1.2384rem;line-height:1.75rem;text-align:left;}#element-284 .x_b558b569{text-align:left;line-height:1.75rem;font-size:1.2384rem;}#element-284 .x_034773b5{color:#10162f;}#element-285{top:53.125rem;left:1.25rem;height:2.5rem;width:17.5rem;z-index:66;color:#37465A;font-size:0.8669rem;line-height:1.225rem;text-align:left;}#element-285 .x_47a309de{text-align:left;line-height:1.25rem;font-size:0.8669rem;}#element-285 .x_34f1c423{text-align:left;color:rgb(16,22,47);background-color:rgba(0,0,0,0);}#element-285 .x_034773b5{color:#10162f;}#element-286{top:58.1875rem;left:7.4375rem;height:9.75rem;width:10rem;z-index:67;}#element-287{top:69.25rem;left:1.25rem;height:7rem;width:22.4375rem;z-index:68;color:#37465A;font-size:1.2384rem;line-height:1.75rem;text-align:left;}#element-287 .x_b558b569{text-align:left;line-height:1.75rem;font-size:1.2384rem;}#element-287 .x_034773b5{color:#10162f;}#element-288{top:77.5rem;left:1.25rem;height:2.5rem;width:17.5rem;z-index:69;color:#37465A;font-size:0.8669rem;line-height:1.225rem;text-align:left;}#element-288 .x_47a309de{text-align:left;line-height:1.25rem;font-size:0.8669rem;}#element-288 .x_034773b5{color:#10162f;}#element-290{top:82.5rem;left:7.4375rem;height:9.75rem;width:10rem;z-index:70;}#element-291{top:93.5rem;left:1.1875rem;height:12.25rem;width:22.5rem;z-index:71;color:#37465A;font-size:1.2384rem;line-height:1.75rem;text-align:left;}#element-291 .x_b558b569{text-align:left;line-height:1.75rem;font-size:1.2384rem;}#element-291 .x_034773b5{color:#10162f;}#element-293{top:107rem;left:1.1875rem;height:2.5rem;width:17.5rem;z-index:72;color:#37465A;font-size:0.8669rem;line-height:1.225rem;text-align:left;}#element-293 .x_47a309de{text-align:left;line-height:1.25rem;font-size:0.8669rem;}#element-293 .x_034773b5{color:#10162f;}#page-block-jt9doc5sdi{height:49.125rem;max-width:100%;}#page-block-jt9doc5sdi .section-holder-border{border:0;}#page-block-jt9doc5sdi .section-block{background:rgb(58,16,229);height:49.125rem;}#page-block-jt9doc5sdi .section-holder-overlay{display:none;}#element-132{top:2.5rem;left:1.1875rem;height:1.625rem;width:22.5rem;z-index:51;color:#37465A;font-size:1.6099rem;line-height:1.625rem;text-align:center;}#element-132 .x_f82204f0{text-align:center;line-height:1.625rem;font-size:1.6099rem;}#element-132 .x_f2074b6c{color:#ffffff;}#element-13{top:6.0625rem;left:10.5rem;height:3.9375rem;width:3.9375rem;z-index:8;}#element-15{top:18.125rem;left:10.5625rem;height:3.875rem;width:3.875rem;z-index:28;}#element-14{top:30.25rem;left:10.5625rem;height:3.9375rem;width:3.9375rem;z-index:16;}#element-9{top:10.9375rem;left:2.3125rem;height:1.9375rem;width:20.25rem;z-index:6;color:#37465A;font-size:1.3622rem;line-height:1.925rem;text-align:center;font-weight:700;}#element-9 .x_a2e00130{text-align:center;line-height:1.9375rem;font-size:1.3622rem;}#element-9 .x_f2074b6c{color:#ffffff;}#element-9 strong{font-weight:700;}#element-9.paragraph{font-weight:700;}#element-8{top:23.0625rem;left:2.375rem;height:1.9375rem;width:20.25rem;z-index:26;color:#37465A;font-size:1.3622rem;line-height:1.925rem;text-align:center;font-weight:700;}#element-8 .x_a2e00130{text-align:center;line-height:1.9375rem;font-size:1.3622rem;}#element-8 .x_f2074b6c{color:#ffffff;}#element-8 strong{font-weight:700;}#element-8.paragraph{font-weight:700;}#element-7{top:35.1875rem;left:2.375rem;height:1.9375rem;width:20.25rem;z-index:14;color:#37465A;font-size:1.3622rem;line-height:1.925rem;text-align:center;font-weight:700;}#element-7 .x_a2e00130{text-align:center;line-height:1.9375rem;font-size:1.3622rem;}#element-7 .x_f2074b6c{color:#ffffff;}#element-7 strong{font-weight:700;}#element-7.paragraph{font-weight:700;}#element-12{top:13.5rem;left:2.3125rem;height:2.75rem;width:20.3125rem;z-index:7;color:#37465A;font-size:0.9907rem;line-height:1.4rem;text-align:center;}#element-12 .x_2c80ab57{text-align:center;line-height:1.375rem;font-size:0.9907rem;}#element-12 .x_f2074b6c{color:#ffffff;}#element-11{top:25.625rem;left:3.0625rem;height:2.75rem;width:18.75rem;z-index:27;color:#37465A;font-size:0.9907rem;line-height:1.4rem;text-align:center;}#element-11 .x_2c80ab57{text-align:center;line-height:1.375rem;font-size:0.9907rem;}#element-11 .x_f2074b6c{color:#ffffff;}#element-10{top:37.75rem;left:3rem;height:2.75rem;width:19.0625rem;z-index:15;color:#37465A;font-size:0.9907rem;line-height:1.4rem;text-align:center;}#element-10 .x_2c80ab57{text-align:center;line-height:1.375rem;font-size:0.9907rem;}#element-10 .x_f2074b6c{color:#ffffff;}#element-133{top:43rem;left:7.5625rem;height:2.9375rem;width:9.75rem;z-index:52;}.btn-shadow{box-shadow:0 1px 3px rgba(1,1,1,0.5);}#element-133 .btn.btn-effect3d:active{box-shadow:none;}#element-133 .btn:hover{background:#F5FCFF;color:#000000;}#element-133 .btn{background:#FFD613;color:#000000;font-size:0.9907rem;font-family:Apercu;font-weight:700;height:2.9375rem;width:9.75rem;border-radius:3px;}#page-block-quvar42gd2{height:6rem;max-width:100%;}#page-block-quvar42gd2 .section-holder-border{border:0;}#page-block-quvar42gd2 .section-block{background:rgb(255,240,229);height:6rem;}#page-block-quvar42gd2 .section-holder-overlay{display:none;}#element-135{top:2.5rem;left:1.25rem;height:1.9375rem;width:22.5rem;z-index:29;color:#37465A;font-size:1.6099rem;line-height:1.95rem;text-align:left;}#element-135 .x_56c6f2d0{text-align:left;line-height:1.9375rem;font-size:1.6099rem;}#element-135 .x_7b2817bf{color:#000000;}#element-135 strong{font-weight:700;}#page-block-051kmq9yh42a{height:5.375rem;max-width:100%;}#page-block-051kmq9yh42a .section-holder-border{border:0;}#page-block-051kmq9yh42a .section-block{background:rgb(255,240,229);height:5.375rem;}#page-block-051kmq9yh42a .section-holder-overlay{display:none;}#element-137{top:1.0625rem;left:1.25rem;height:1.6875rem;width:19.8125rem;z-index:30;color:#37465A;font-size:1.1765rem;line-height:1.6625rem;text-align:left;font-weight:700;}#element-137 .x_8f2182eb{text-align:left;line-height:1.6875rem;font-size:1.1765rem;}#element-137 .x_034773b5{color:#10162f;}#element-137 strong{font-weight:700;}#element-137.paragraph{font-weight:700;}#element-138{top:1.0625rem;left:22.5rem;height:1.25rem;width:1.25rem;z-index:40;}#element-136{top:2.6875rem;left:1.25rem;height:1.3125rem;width:22.5rem;z-index:17;}#element-136 .shape{border-bottom:1px solid #10162F;}#page-block-bqrqja4k6af{height:26.5rem;max-width:100%;}#page-block-bqrqja4k6af .section-holder-border{border:0;}#page-block-bqrqja4k6af .section-block{background:rgb(255,240,229);height:26.5rem;}#page-block-bqrqja4k6af .section-holder-overlay{display:none;}#element-139{top:1.25rem;left:1.25rem;height:23.25rem;width:22.5rem;z-index:9;color:#37465A;font-size:0.9907rem;line-height:1.4rem;text-align:left;}#element-139 .x_0a34168d{text-align:left;line-height:1.375rem;font-size:0.9907rem;}#element-139 .x_034773b5{color:#10162f;}#page-block-qcr8y07w4s{height:5.375rem;max-width:100%;}#page-block-qcr8y07w4s .section-holder-border{border:0;}#page-block-qcr8y07w4s .section-block{background:rgb(255,240,229);height:5.375rem;}#page-block-qcr8y07w4s .section-holder-overlay{display:none;}#element-255{top:1.0625rem;left:1.25rem;height:1.6875rem;width:20.75rem;z-index:32;color:#37465A;font-size:1.1765rem;line-height:1.6625rem;text-align:left;font-weight:700;}#element-255 .x_8f2182eb{text-align:left;line-height:1.6875rem;font-size:1.1765rem;}#element-255 .x_034773b5{color:#10162f;}#element-255 strong{font-weight:700;}#element-255.paragraph{font-weight:700;}#element-256{top:1.0625rem;left:22.5rem;height:1.25rem;width:1.25rem;z-index:42;}#element-254{top:2.6875rem;left:1.25rem;height:1.3125rem;width:22.5rem;z-index:19;}#element-254 .shape{border-bottom:1px solid #10162F;}#page-block-kt367rutdn{height:21.125rem;max-width:100%;}#page-block-kt367rutdn .section-holder-border{border:0;}#page-block-kt367rutdn .section-block{background:rgb(255,240,229);height:21.125rem;}#page-block-kt367rutdn .section-holder-overlay{display:none;}#element-258{top:1.25rem;left:1.25rem;height:17.75rem;width:22.5rem;z-index:60;color:#10162F;font-size:0.9907rem;line-height:1.4rem;text-align:left;}#element-258 .contents a{color:#3A10E5;}#element-258 .x_0a34168d{text-align:left;line-height:1.375rem;font-size:0.9907rem;}#element-258 .x_034773b5{color:#10162f;}#element-258 .x_43b315d8{color:#3a10e5;}#element-258 strong{font-weight:700;}#page-block-786u9xg7gh{height:5.375rem;max-width:100%;}#page-block-786u9xg7gh .section-holder-border{border:0;}#page-block-786u9xg7gh .section-block{background:rgb(255,240,229);height:5.375rem;}#page-block-786u9xg7gh .section-holder-overlay{display:none;}#element-141{top:1.0625rem;left:1.25rem;height:1.6875rem;width:19.8125rem;z-index:31;color:#37465A;font-size:1.1765rem;line-height:1.6625rem;text-align:left;font-weight:700;}#element-141 .x_8f2182eb{text-align:left;line-height:1.6875rem;font-size:1.1765rem;}#element-141 .x_034773b5{color:#10162f;}#element-141 strong{font-weight:700;}#element-141.paragraph{font-weight:700;}#element-142{top:1.0625rem;left:22.5rem;height:1.25rem;width:1.25rem;z-index:41;}#element-140{top:2.6875rem;left:1.25rem;height:1.3125rem;width:22.5rem;z-index:18;}#element-140 .shape{border-bottom:1px solid #10162F;}#page-block-zel4m4nr8p{height:12.3125rem;max-width:100%;}#page-block-zel4m4nr8p .section-holder-border{border:0;}#page-block-zel4m4nr8p .section-block{background:rgb(255,240,229);height:12.3125rem;}#page-block-zel4m4nr8p .section-holder-overlay{display:none;}#element-143{top:1.3125rem;left:1.25rem;height:6.875rem;width:22.5rem;z-index:10;color:#37465A;font-size:0.9907rem;line-height:1.4rem;text-align:left;}#element-143 .x_0a34168d{text-align:left;line-height:1.375rem;font-size:0.9907rem;}#element-143 .x_034773b5{color:#10162f;}#page-block-mqkp9g8cah{height:5.375rem;max-width:100%;}#page-block-mqkp9g8cah .section-holder-border{border:0;}#page-block-mqkp9g8cah .section-block{background:rgb(255,240,229);height:5.375rem;}#page-block-mqkp9g8cah .section-holder-overlay{display:none;}#element-145{top:1.0625rem;left:1.25rem;height:1.6875rem;width:19.8125rem;z-index:33;color:#37465A;font-size:1.1765rem;line-height:1.6625rem;text-align:left;font-weight:700;}#element-145 .x_8f2182eb{text-align:left;line-height:1.6875rem;font-size:1.1765rem;}#element-145 .x_034773b5{color:#10162f;}#element-145 strong{font-weight:700;}#element-145.paragraph{font-weight:700;}#element-146{top:1.0625rem;left:22.5rem;height:1.25rem;width:1.25rem;z-index:43;}#element-144{top:2.6875rem;left:1.25rem;height:1.3125rem;width:22.5rem;z-index:20;}#element-144 .shape{border-bottom:1px solid #10162F;}#page-block-4scwk8dqfts{height:12.3125rem;max-width:100%;}#page-block-4scwk8dqfts .section-holder-border{border:0;}#page-block-4scwk8dqfts .section-block{background:rgb(255,240,229);height:12.3125rem;}#page-block-4scwk8dqfts .section-holder-overlay{display:none;}#element-147{top:1.3125rem;left:1.25rem;height:5.5rem;width:22.5rem;z-index:11;color:#37465A;font-size:0.9907rem;line-height:1.4rem;text-align:left;}#element-147 .x_0a34168d{text-align:left;line-height:1.375rem;font-size:0.9907rem;}#element-147 .x_034773b5{color:#10162f;}#page-block-kzttzn3soom{height:5.375rem;max-width:100%;}#page-block-kzttzn3soom .section-holder-border{border:0;}#page-block-kzttzn3soom .section-block{background:rgb(255,240,229);height:5.375rem;}#page-block-kzttzn3soom .section-holder-overlay{display:none;}#element-149{top:1.0625rem;left:1.25rem;height:1.6875rem;width:19.8125rem;z-index:34;color:#37465A;font-size:1.1765rem;line-height:1.6625rem;text-align:left;font-weight:700;}#element-149 .x_8f2182eb{text-align:left;line-height:1.6875rem;font-size:1.1765rem;}#element-149 .x_034773b5{color:#10162f;}#element-149 strong{font-weight:700;}#element-149.paragraph{font-weight:700;}#element-150{top:1.0625rem;left:22.5rem;height:1.25rem;width:1.25rem;z-index:44;}#element-148{top:2.6875rem;left:1.25rem;height:1.3125rem;width:22.5rem;z-index:21;}#element-148 .shape{border-bottom:1px solid #10162F;}#page-block-z8brn7eh3k{height:12.3125rem;max-width:100%;}#page-block-z8brn7eh3k .section-holder-border{border:0;}#page-block-z8brn7eh3k .section-block{background:rgb(255,240,229);height:12.3125rem;}#page-block-z8brn7eh3k .section-holder-overlay{display:none;}#element-151{top:1.3125rem;left:1.25rem;height:4.125rem;width:22.5rem;z-index:12;color:#37465A;font-size:0.9907rem;line-height:1.4rem;text-align:left;}#element-151 .x_0a34168d{text-align:left;line-height:1.375rem;font-size:0.9907rem;}#element-151 .x_034773b5{color:#10162f;}#page-block-0o8uy40jd8lp{height:4rem;max-width:100%;}#page-block-0o8uy40jd8lp .section-holder-border{border:0;}#page-block-0o8uy40jd8lp .section-block{background:rgb(255,240,229);height:4rem;}#page-block-0o8uy40jd8lp .section-holder-overlay{display:none;}#element-153{top:1.0625rem;left:1.25rem;height:1.6875rem;width:19.8125rem;z-index:35;color:#37465A;font-size:1.1765rem;line-height:1.6625rem;text-align:left;font-weight:700;}#element-153 .x_8f2182eb{text-align:left;line-height:1.6875rem;font-size:1.1765rem;}#element-153 .x_034773b5{color:#10162f;}#element-153 strong{font-weight:700;}#element-153.paragraph{font-weight:700;}#element-154{top:1.0625rem;left:22.5rem;height:1.25rem;width:1.25rem;z-index:45;}#element-152{top:2.6875rem;left:1.25rem;height:1.3125rem;width:22.5rem;z-index:22;}#element-152 .shape{border-bottom:1px solid #10162F;}#page-block-vexyacndss{height:10.3125rem;max-width:100%;}#page-block-vexyacndss .section-holder-border{border:0;}#page-block-vexyacndss .section-block{background:rgb(255,240,229);height:10.3125rem;}#page-block-vexyacndss .section-holder-overlay{display:none;}#element-155{top:1.3125rem;left:1.25rem;height:6.875rem;width:22.5rem;z-index:13;color:#37465A;font-size:0.9907rem;line-height:1.4rem;text-align:left;}#element-155 .x_0a34168d{text-align:left;line-height:1.375rem;font-size:0.9907rem;}#element-155 .x_034773b5{color:#10162f;}#page-block-z0vzv3r06eb{height:1.5625rem;max-width:100%;}#page-block-z0vzv3r06eb .section-holder-border{border:0;}#page-block-z0vzv3r06eb .section-block{background:rgb(255,240,229);height:1.5625rem;}#page-block-z0vzv3r06eb .section-holder-overlay{display:none;}#page-block-wb8gw0lfsob{height:4.125rem;max-width:100%;}#page-block-wb8gw0lfsob .section-holder-border{border:0;}#page-block-wb8gw0lfsob .section-block{background:rgb(255,240,229);height:4.125rem;}#page-block-wb8gw0lfsob .section-holder-overlay{display:none;}#element-207{top:0;left:1.25rem;height:2.125rem;width:22.5rem;z-index:57;color:#37465A;font-size:1.4861rem;line-height:2.1rem;text-align:left;}#element-207 .x_8b27949e{text-align:left;line-height:2.125rem;font-size:1.4861rem;}#element-207 .x_7b2817bf{color:#000000;}#element-208{top:2.5rem;left:1.25rem;height:1.375rem;width:22.5rem;z-index:58;color:#37465A;font-size:0.9907rem;line-height:1.4rem;text-align:left;}#element-208 .x_ef245e2e{text-align:left;line-height:1.375rem;font-size:0.9907rem;}#element-208 .x_7b2817bf{color:#000000;}#page-block-htyiggq7zrj{height:1.5625rem;max-width:100%;}#page-block-htyiggq7zrj .section-holder-border{border:0;}#page-block-htyiggq7zrj .section-block{background:rgb(255,240,229);height:1.5625rem;}#page-block-htyiggq7zrj .section-holder-overlay{display:none;}#page-block-lyha1cy213o{height:1.5625rem;max-width:100%;}#page-block-lyha1cy213o .section-holder-border{border:0;}#page-block-lyha1cy213o .section-block{background:rgb(255,240,229);height:1.5625rem;}#page-block-lyha1cy213o .section-holder-overlay{display:none;}#page_block_below_fold{height:28.75rem;max-width:100%;}#page_block_below_fold .section-holder-border{border:0;}#page_block_below_fold .section-block{background:none;height:28.75rem;}#page_block_below_fold .section-holder-overlay{display:none;}#element-161{top:1.6875rem;left:6.1875rem;height:6.875rem;width:9.5625rem;z-index:55;}#element-161 .shape{border:0;border-radius:0 0 0 0;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII=) repeat rgb(245,252,255) 50% 50% / cover;}#element-162{top:21.125rem;left:8.875rem;height:4.6875rem;width:7.8125rem;z-index:56;}#element-162 .shape{border:0;border-radius:0 0 0 0;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII=) repeat rgb(245,252,255) 50% 50% / cover;}#element-158{top:10.6875rem;left:5.125rem;height:3.75rem;width:14.75rem;z-index:53;color:#37465A;font-size:1.8576rem;line-height:1.875rem;text-align:center;font-weight:700;}#element-158 .x_a76aec5f{text-align:center;line-height:1.875rem;font-size:1.8576rem;}#element-158 .x_7b2817bf{color:#000000;}#element-158 strong{font-weight:700;}#element-158.headline{font-weight:700;}#element-160{top:16.25rem;left:7.625rem;height:2.9375rem;width:9.75rem;z-index:54;}#element-160 .btn.btn-effect3d:active{box-shadow:none;}#element-160 .btn:hover{background:#1D2340;color:#F5FCFF;}#element-160 .btn{background:#3A10E5;color:#FFFFFF;font-size:0.9907rem;font-family:Apercu;font-weight:700;height:2.9375rem;width:9.75rem;border-radius:3px;}#page-block-jtjt4jbxjen{height:7.5rem;max-width:100%;}#page-block-jtjt4jbxjen .section-holder-border{border:0;}#page-block-jtjt4jbxjen .section-block{background:rgb(16,22,47);height:7.5rem;}#page-block-jtjt4jbxjen .section-holder-overlay{display:none;}#element-164{top:2.125rem;left:1.25rem;height:1.7858rem;width:8.375rem;z-index:5;}#element-163{top:5.4375rem;left:1.25rem;height:1.25rem;width:14.6875rem;z-index:4;color:#37465A;font-size:0.8669rem;line-height:1.225rem;text-align:right;}#element-163 .x_403fca71{text-align:right;line-height:1.25rem;font-size:0.8669rem;}#element-163 .x_e7329080{color:#fff0e5;}@font-face{font-family:"Apercu";src:url("https://static-assets.codecademy.com/gamut/apercu-regular-pro.woff"), local("Open Sans"), url("https://storage.googleapis.com/instapage-fonts/OpenSans.ttf");font-weight:400;font-display:swap;}@font-face{font-family:"Apercu";src:url("https://static-assets.codecademy.com/gamut/apercu-bold-pro.woff"), local("Open Sans"), url("https://storage.googleapis.com/instapage-fonts/OpenSans.ttf");font-weight:700;font-display:swap;}@media screen and (max-width:400px){:root{font-size:4vw;}:root.js-text-scaling{font-size:var(--mobile-font-size);}}@media screen and (min-width:401px) and (max-width:767px){:root{font-size:16px;}:root.js-text-scaling{font-size:var(--default-font-size);}}@media screen and (min-width:768px) and (max-width:1200px){:root{font-size:1.33vw;}}@media screen and (min-width:768px) and (max-width:7680px){.hidden-desktop{display:none;}}@media screen and (max-width:767px){.hidden-mobile{display:none;}.sticky-block-header-onlyonmobile .section:first-child,.sticky-block-footer-onlyonmobile .section:last-child{position:sticky;}}@media screen and (min-width:768px){.section-fit{max-width:60rem;}.sticky-block-header-onlyondesktop .section:first-child,.sticky-block-footer-onlyondesktop .section:last-child{position:sticky;}#page-block-gcivwbkd3h9{height:5.1875rem;max-width:100%;}#page-block-gcivwbkd3h9 .section-holder-border{border:0;}#page-block-gcivwbkd3h9 .section-block{background:rgb(255,255,255);height:5.1875rem;}#page-block-gcivwbkd3h9 .section-holder-overlay{display:none;}#element-1{top:1.5625rem;left:-1.9375rem;height:2.0625rem;width:9.4375rem;z-index:3;}#page-block-81jpq36f0hd{height:32.8125rem;max-width:100%;}#page-block-81jpq36f0hd .section-holder-border{border:0;}#page-block-81jpq36f0hd .section-block{background:rgb(245,252,255);height:32.8125rem;}#page-block-81jpq36f0hd .section-holder-overlay{display:none;}#element-131{top:6.8125rem;left:32.9375rem;height:19.0625rem;width:26.875rem;z-index:50;}#element-131 .shape{border:0;border-radius:0 0 0 0;background:url(//v.fastcdn.co/u/595c9b42/63920150-0-CC-HeroBanner-2.jpg) repeat rgb(240,243,245) 50% 50% / cover;}#element-20{top:8.0625rem;left:0;height:6.25rem;width:35.5625rem;z-index:23;color:#37465A;font-size:3.096rem;line-height:3.125rem;text-align:left;}#element-20 .x_e28fdc68{text-align:left;line-height:3.125rem;font-size:3.096rem;}#element-20 .x_7b2817bf{color:#000000;}#element-22{top:16.625rem;left:0.0625rem;height:8rem;width:29.5625rem;z-index:25;color:#37465A;font-size:1.2384rem;line-height:2rem;text-align:left;}#element-22 .x_9811881d{text-align:left;line-height:2rem;font-size:1.2384rem;}#element-22 .x_7b2817bf{color:#000000;}#page-block-n7878m47ag{height:6.8125rem;max-width:100%;}#page-block-n7878m47ag .section-holder-border{border:0;}#page-block-n7878m47ag .section-block{background:rgb(58,16,229);height:6.8125rem;}#page-block-n7878m47ag .section-holder-overlay{display:none;}#element-42{top:1.8125rem;left:0;height:3.3125rem;width:3.3125rem;z-index:37;}#element-42 .shape{border:0;background:url(//v.fastcdn.co/u/595c9b42/63887557-0-Impact.svg) repeat rgb(240,243,245) 50% 50% / cover;}#element-45{top:1.8125rem;left:21.5rem;height:3.3125rem;width:3.3125rem;z-index:39;}#element-45 .shape{border:0;background:url(//v.fastcdn.co/u/595c9b42/63887560-0-Perks.svg) repeat rgb(240,243,245) 50% 50% / cover;}#element-48{top:1.8125rem;left:42.5625rem;height:3.3125rem;width:3.3125rem;z-index:47;}#element-48 .shape{border:0;background:url(//v.fastcdn.co/u/595c9b42/63887561-0-Connections.svg) repeat rgb(240,243,245) 50% 50% / cover;}#element-41{top:2.8125rem;left:4.5rem;height:1.375rem;width:8.0625rem;z-index:36;color:#37465A;font-size:1.1146rem;line-height:1.35rem;text-align:left;font-weight:700;}#element-41 .x_da6ad2be{text-align:left;line-height:1.375rem;font-size:1.1146rem;}#element-41 .x_f2074b6c{color:#ffffff;}#element-41 strong{font-weight:700;}#element-41.headline{font-weight:700;}#element-44{top:2.8125rem;left:26rem;height:1.375rem;width:10rem;z-index:38;color:#37465A;font-size:1.1146rem;line-height:1.35rem;text-align:left;font-weight:700;}#element-44 .x_da6ad2be{text-align:left;line-height:1.375rem;font-size:1.1146rem;}#element-44 .x_f2074b6c{color:#ffffff;}#element-44 strong{font-weight:700;}#element-44.headline{font-weight:700;}#element-47{top:2.8125rem;left:46.8125rem;height:1.375rem;width:13.125rem;z-index:46;color:#37465A;font-size:1.1146rem;line-height:1.35rem;text-align:left;font-weight:700;}#element-47 .x_da6ad2be{text-align:left;line-height:1.375rem;font-size:1.1146rem;}#element-47 .x_f2074b6c{color:#ffffff;}#element-47 strong{font-weight:700;}#element-47.headline{font-weight:700;}#page-block-xp3lg8geysi{height:25.5rem;max-width:100%;}#page-block-xp3lg8geysi .section-holder-border{border:0;}#page-block-xp3lg8geysi .section-block{background:rgb(255,255,255);height:25.5rem;}#page-block-xp3lg8geysi .section-holder-overlay{display:none;}#element-55{top:6.0625rem;left:10.25rem;height:2.75rem;width:39.5rem;z-index:48;color:#10162F;font-size:2.7245rem;line-height:2.75rem;text-align:center;font-weight:700;}#element-55 .x_07204851{text-align:center;line-height:2.75rem;font-size:2.7245rem;}#element-55 .x_034773b5{color:#10162f;}#element-55 strong{font-weight:700;}#element-55.headline{font-weight:700;}#element-56{top:11.3125rem;left:12.1875rem;height:8.125rem;width:35.5625rem;z-index:49;color:#3A10E5;font-size:0.9907rem;line-height:1.6rem;text-align:center;}#element-56 .contents a{color:#3A10E5;}#element-56 .x_dc68832a{text-align:center;line-height:1.625rem;font-size:0.9907rem;}#element-56 .x_034773b5{color:#10162f;}#element-56 strong{font-weight:700;}#page-block-2mv6yynvczn{height:65.5625rem;max-width:100%;}#page-block-2mv6yynvczn .section-holder-border{border:0;}#page-block-2mv6yynvczn .section-block{background:rgb(245,252,255);height:65.5625rem;}#page-block-2mv6yynvczn .section-holder-overlay{display:none;}#element-279{top:5.9375rem;left:10.625rem;height:3.3125rem;width:40.375rem;z-index:59;color:#37465A;font-size:2.7245rem;line-height:3.3rem;text-align:center;}#element-279 .x_11909a12{text-align:center;line-height:3.3125rem;font-size:2.7245rem;}#element-279 .x_7b2817bf{color:#000000;}#element-280{top:13rem;left:0.0625rem;height:9.75rem;width:10rem;z-index:61;}#element-281{top:13rem;left:11.3125rem;height:13.5625rem;width:17.5rem;z-index:62;color:#37465A;font-size:1.3622rem;line-height:1.925rem;text-align:left;}#element-281 .x_052b6b4c{text-align:left;line-height:1.9375rem;font-size:1.3622rem;}#element-281 .x_034773b5{color:#10162f;}#element-282{top:27.8125rem;left:11.3125rem;height:2.75rem;width:17.5rem;z-index:63;color:#37465A;font-size:0.9907rem;line-height:1.4rem;text-align:left;}#element-282 .x_0a34168d{text-align:left;line-height:1.375rem;font-size:0.9907rem;}#element-282 .x_034773b5{color:#10162f;}#element-283{top:13rem;left:31.1875rem;height:9.75rem;width:10rem;z-index:64;}#element-284{top:13rem;left:42.4375rem;height:11.625rem;width:17.5rem;z-index:65;color:#37465A;font-size:1.3622rem;line-height:1.925rem;text-align:left;}#element-284 .x_052b6b4c{text-align:left;line-height:1.9375rem;font-size:1.3622rem;}#element-284 .x_034773b5{color:#10162f;}#element-285{top:25.9375rem;left:42.4375rem;height:2.75rem;width:17.5rem;z-index:66;color:#37465A;font-size:0.9907rem;line-height:1.4rem;text-align:left;}#element-285 .x_0a34168d{text-align:left;line-height:1.375rem;font-size:0.9907rem;}#element-285 .x_34f1c423{text-align:left;color:rgb(16,22,47);background-color:rgba(0,0,0,0);}#element-285 .x_034773b5{color:#10162f;}#element-286{top:34.3125rem;left:0.0625rem;height:9.75rem;width:10rem;z-index:67;}#element-287{top:34.3125rem;left:11.3125rem;height:13.5625rem;width:17.5rem;z-index:68;color:#37465A;font-size:1.3622rem;line-height:1.925rem;text-align:left;}#element-287 .x_052b6b4c{text-align:left;line-height:1.9375rem;font-size:1.3622rem;}#element-287 .x_034773b5{color:#10162f;}#element-288{top:49.125rem;left:11.3125rem;height:2.75rem;width:17.5rem;z-index:69;color:#37465A;font-size:0.9907rem;line-height:1.4rem;text-align:left;}#element-288 .x_0a34168d{text-align:left;line-height:1.375rem;font-size:0.9907rem;}#element-288 .x_034773b5{color:#10162f;}#element-290{top:34.3125rem;left:31.1875rem;height:9.75rem;width:10rem;z-index:70;}#element-291{top:34.3125rem;left:42.4375rem;height:21.3125rem;width:17.5rem;z-index:71;color:#37465A;font-size:1.3622rem;line-height:1.925rem;text-align:left;}#element-291 .x_052b6b4c{text-align:left;line-height:1.9375rem;font-size:1.3622rem;}#element-291 .x_034773b5{color:#10162f;}#element-293{top:56.875rem;left:42.4375rem;height:2.75rem;width:17.5rem;z-index:72;color:#37465A;font-size:0.9907rem;line-height:1.4rem;text-align:left;}#element-293 .x_0a34168d{text-align:left;line-height:1.375rem;font-size:0.9907rem;}#element-293 .x_034773b5{color:#10162f;}#page-block-jt9doc5sdi{height:35.625rem;max-width:100%;}#page-block-jt9doc5sdi .section-holder-border{border:0;}#page-block-jt9doc5sdi .section-block{background:rgb(58,16,229);height:35.625rem;}#page-block-jt9doc5sdi .section-holder-overlay{display:none;}#element-132{top:5.9375rem;left:0.0625rem;height:3.3125rem;width:59.9375rem;z-index:51;color:#37465A;font-size:2.7245rem;line-height:3.3rem;text-align:center;}#element-132 .x_11909a12{text-align:center;line-height:3.3125rem;font-size:2.7245rem;}#element-132 .x_f2074b6c{color:#ffffff;}#element-13{top:11.1875rem;left:6.125rem;height:3.9375rem;width:3.9375rem;z-index:8;}#element-15{top:11.1875rem;left:28.0625rem;height:3.875rem;width:3.875rem;z-index:28;}#element-14{top:11.1875rem;left:49.875rem;height:3.9375rem;width:3.9375rem;z-index:16;}#element-9{top:16.75rem;left:-2rem;height:1.9375rem;width:20.25rem;z-index:6;color:#37465A;font-size:1.3622rem;line-height:1.925rem;text-align:center;font-weight:700;}#element-9 .x_a2e00130{text-align:center;line-height:1.9375rem;font-size:1.3622rem;}#element-9 .x_f2074b6c{color:#ffffff;}#element-9 strong{font-weight:700;}#element-9.paragraph{font-weight:700;}#element-8{top:16.75rem;left:19.875rem;height:1.9375rem;width:20.25rem;z-index:26;color:#37465A;font-size:1.3622rem;line-height:1.925rem;text-align:center;font-weight:700;}#element-8 .x_a2e00130{text-align:center;line-height:1.9375rem;font-size:1.3622rem;}#element-8 .x_f2074b6c{color:#ffffff;}#element-8 strong{font-weight:700;}#element-8.paragraph{font-weight:700;}#element-7{top:16.75rem;left:41.75rem;height:1.9375rem;width:20.25rem;z-index:14;color:#37465A;font-size:1.3622rem;line-height:1.925rem;text-align:center;font-weight:700;}#element-7 .x_a2e00130{text-align:center;line-height:1.9375rem;font-size:1.3622rem;}#element-7 .x_f2074b6c{color:#ffffff;}#element-7 strong{font-weight:700;}#element-7.paragraph{font-weight:700;}#element-12{top:19.9375rem;left:0.5rem;height:3.25rem;width:15.125rem;z-index:7;color:#37465A;font-size:0.9907rem;line-height:1.6rem;text-align:center;}#element-12 .x_dc68832a{text-align:center;line-height:1.625rem;font-size:0.9907rem;}#element-12 .x_f2074b6c{color:#ffffff;}#element-11{top:19.9375rem;left:19.875rem;height:3.25rem;width:20.25rem;z-index:27;color:#37465A;font-size:0.9907rem;line-height:1.6rem;text-align:center;}#element-11 .x_dc68832a{text-align:center;line-height:1.625rem;font-size:0.9907rem;}#element-11 .x_f2074b6c{color:#ffffff;}#element-10{top:19.9375rem;left:43.0625rem;height:3.25rem;width:17.5625rem;z-index:15;color:#37465A;font-size:0.9907rem;line-height:1.6rem;text-align:center;}#element-10 .x_dc68832a{text-align:center;line-height:1.625rem;font-size:0.9907rem;}#element-10 .x_f2074b6c{color:#ffffff;}#element-133{top:26.75rem;left:25.125rem;height:2.9375rem;width:9.75rem;z-index:52;}#element-133 .btn.btn-effect3d:active{box-shadow:none;}#element-133 .btn:hover{background:#F5FCFF;color:#000000;}#element-133 .btn{background:#FFD613;color:#000000;font-size:0.9907rem;font-family:Apercu;font-weight:700;height:2.9375rem;width:9.75rem;border-radius:3px;}#page-block-quvar42gd2{height:6.375rem;max-width:100%;}#page-block-quvar42gd2 .section-holder-border{border:0;}#page-block-quvar42gd2 .section-block{background:rgb(255,240,229);height:6.375rem;}#page-block-quvar42gd2 .section-holder-overlay{display:none;}#element-135{top:2.75rem;left:-2.0625rem;height:3rem;width:62rem;z-index:29;color:#37465A;font-size:2.1053rem;line-height:2.975rem;text-align:center;}#element-135 .x_4c2ab017{text-align:center;line-height:3rem;font-size:2.1053rem;}#element-135 .x_7b2817bf{color:#000000;}#element-135 strong{font-weight:700;}#page-block-051kmq9yh42a{height:6.5rem;max-width:100%;}#page-block-051kmq9yh42a .section-holder-border{border:0;}#page-block-051kmq9yh42a .section-block{background:rgb(255,240,229);height:6.5rem;}#page-block-051kmq9yh42a .section-holder-overlay{display:none;}#element-137{top:1.9375rem;left:-2.0625rem;height:2rem;width:62rem;z-index:30;color:#37465A;font-size:1.2384rem;line-height:2rem;text-align:left;font-weight:700;}#element-137 .x_9317fdfd{text-align:left;line-height:2rem;font-size:1.2384rem;}#element-137 .x_034773b5{color:#10162f;}#element-137 strong{font-weight:700;}#element-137.paragraph{font-weight:700;}#element-138{top:2.3125rem;left:59.9375rem;height:1.25rem;width:1.25rem;z-index:40;}#element-136{top:5.1875rem;left:-2.0625rem;height:1.3125rem;width:64rem;z-index:17;}#element-136 .shape{border-bottom:1px solid #10162F;}#page-block-bqrqja4k6af{height:21.9375rem;max-width:100%;}#page-block-bqrqja4k6af .section-holder-border{border:0;}#page-block-bqrqja4k6af .section-block{background:rgb(255,240,229);height:21.9375rem;}#page-block-bqrqja4k6af .section-holder-overlay{display:none;}#element-139{top:1.25rem;left:-2rem;height:19.125rem;width:59.875rem;z-index:9;color:#37465A;font-size:0.9907rem;line-height:1.6rem;text-align:left;}#element-139 .x_fae6260b{text-align:left;line-height:1.625rem;font-size:0.9907rem;}#element-139 .x_034773b5{color:#10162f;}#page-block-qcr8y07w4s{height:6.5rem;max-width:100%;}#page-block-qcr8y07w4s .section-holder-border{border:0;}#page-block-qcr8y07w4s .section-block{background:rgb(255,240,229);height:6.5rem;}#page-block-qcr8y07w4s .section-holder-overlay{display:none;}#element-255{top:1.9375rem;left:-2.0625rem;height:2rem;width:62rem;z-index:32;color:#37465A;font-size:1.2384rem;line-height:2rem;text-align:left;font-weight:700;}#element-255 .x_9317fdfd{text-align:left;line-height:2rem;font-size:1.2384rem;}#element-255 .x_034773b5{color:#10162f;}#element-255 strong{font-weight:700;}#element-255.paragraph{font-weight:700;}#element-256{top:2.3125rem;left:59.9375rem;height:1.25rem;width:1.25rem;z-index:42;}#element-254{top:5.1875rem;left:-2.0625rem;height:1.3125rem;width:64rem;z-index:19;}#element-254 .shape{border-bottom:1px solid #10162F;}#page-block-kt367rutdn{height:17.0625rem;max-width:100%;}#page-block-kt367rutdn .section-holder-border{border:0;}#page-block-kt367rutdn .section-block{background:rgb(255,240,229);height:17.0625rem;}#page-block-kt367rutdn .section-holder-overlay{display:none;}#element-258{top:1.25rem;left:-2.0625rem;height:12.625rem;width:56rem;z-index:60;color:#10162F;font-size:0.9907rem;line-height:1.6rem;text-align:left;}#element-258 .contents a{color:#3A10E5;}#element-258 .x_fae6260b{text-align:left;line-height:1.625rem;font-size:0.9907rem;}#element-258 .x_034773b5{color:#10162f;}#element-258 .x_43b315d8{color:#3a10e5;}#element-258 strong{font-weight:700;}#page-block-786u9xg7gh{height:6.5rem;max-width:100%;}#page-block-786u9xg7gh .section-holder-border{border:0;}#page-block-786u9xg7gh .section-block{background:rgb(255,240,229);height:6.5rem;}#page-block-786u9xg7gh .section-holder-overlay{display:none;}#element-141{top:1.9375rem;left:-2.0625rem;height:2rem;width:62rem;z-index:31;color:#37465A;font-size:1.2384rem;line-height:2rem;text-align:left;font-weight:700;}#element-141 .x_9317fdfd{text-align:left;line-height:2rem;font-size:1.2384rem;}#element-141 .x_034773b5{color:#10162f;}#element-141 strong{font-weight:700;}#element-141.paragraph{font-weight:700;}#element-142{top:2.3125rem;left:59.9375rem;height:1.25rem;width:1.25rem;z-index:41;}#element-140{top:5.1875rem;left:-2.0625rem;height:1.3125rem;width:64rem;z-index:18;}#element-140 .shape{border-bottom:1px solid #10162F;}#page-block-zel4m4nr8p{height:9.25rem;max-width:100%;}#page-block-zel4m4nr8p .section-holder-border{border:0;}#page-block-zel4m4nr8p .section-block{background:rgb(255,240,229);height:9.25rem;}#page-block-zel4m4nr8p .section-holder-overlay{display:none;}#element-143{top:1.25rem;left:-2rem;height:3.25rem;width:59.875rem;z-index:10;color:#37465A;font-size:0.9907rem;line-height:1.6rem;text-align:left;}#element-143 .x_fae6260b{text-align:left;line-height:1.625rem;font-size:0.9907rem;}#element-143 .x_034773b5{color:#10162f;}#page-block-mqkp9g8cah{height:6.5rem;max-width:100%;}#page-block-mqkp9g8cah .section-holder-border{border:0;}#page-block-mqkp9g8cah .section-block{background:rgb(255,240,229);height:6.5rem;}#page-block-mqkp9g8cah .section-holder-overlay{display:none;}#element-145{top:1.9375rem;left:-2.0625rem;height:2rem;width:62rem;z-index:33;color:#37465A;font-size:1.2384rem;line-height:2rem;text-align:left;font-weight:700;}#element-145 .x_9317fdfd{text-align:left;line-height:2rem;font-size:1.2384rem;}#element-145 .x_034773b5{color:#10162f;}#element-145 strong{font-weight:700;}#element-145.paragraph{font-weight:700;}#element-146{top:2.3125rem;left:59.9375rem;height:1.25rem;width:1.25rem;z-index:43;}#element-144{top:5.1875rem;left:-2.0625rem;height:1.3125rem;width:64rem;z-index:20;}#element-144 .shape{border-bottom:1px solid #10162F;}#page-block-4scwk8dqfts{height:9.25rem;max-width:100%;}#page-block-4scwk8dqfts .section-holder-border{border:0;}#page-block-4scwk8dqfts .section-block{background:rgb(255,240,229);height:9.25rem;}#page-block-4scwk8dqfts .section-holder-overlay{display:none;}#element-147{top:1.25rem;left:-2rem;height:3.25rem;width:59.875rem;z-index:11;color:#37465A;font-size:0.9907rem;line-height:1.6rem;text-align:left;}#element-147 .x_fae6260b{text-align:left;line-height:1.625rem;font-size:0.9907rem;}#element-147 .x_034773b5{color:#10162f;}#page-block-kzttzn3soom{height:6.5rem;max-width:100%;}#page-block-kzttzn3soom .section-holder-border{border:0;}#page-block-kzttzn3soom .section-block{background:rgb(255,240,229);height:6.5rem;}#page-block-kzttzn3soom .section-holder-overlay{display:none;}#element-149{top:1.9375rem;left:-2.0625rem;height:2rem;width:62rem;z-index:34;color:#37465A;font-size:1.2384rem;line-height:2rem;text-align:left;font-weight:700;}#element-149 .x_9317fdfd{text-align:left;line-height:2rem;font-size:1.2384rem;}#element-149 .x_034773b5{color:#10162f;}#element-149 strong{font-weight:700;}#element-149.paragraph{font-weight:700;}#element-150{top:2.3125rem;left:59.9375rem;height:1.25rem;width:1.25rem;z-index:44;}#element-148{top:5.1875rem;left:-2.0625rem;height:1.3125rem;width:64rem;z-index:21;}#element-148 .shape{border-bottom:1px solid #10162F;}#page-block-z8brn7eh3k{height:9.25rem;max-width:100%;}#page-block-z8brn7eh3k .section-holder-border{border:0;}#page-block-z8brn7eh3k .section-block{background:rgb(255,240,229);height:9.25rem;}#page-block-z8brn7eh3k .section-holder-overlay{display:none;}#element-151{top:1.25rem;left:-2rem;height:1.625rem;width:59.875rem;z-index:12;color:#37465A;font-size:0.9907rem;line-height:1.6rem;text-align:left;}#element-151 .x_fae6260b{text-align:left;line-height:1.625rem;font-size:0.9907rem;}#element-151 .x_034773b5{color:#10162f;}#page-block-0o8uy40jd8lp{height:6.5rem;max-width:100%;}#page-block-0o8uy40jd8lp .section-holder-border{border:0;}#page-block-0o8uy40jd8lp .section-block{background:rgb(255,240,229);height:6.5rem;}#page-block-0o8uy40jd8lp .section-holder-overlay{display:none;}#element-153{top:1.9375rem;left:-2.0625rem;height:2rem;width:62rem;z-index:35;color:#37465A;font-size:1.2384rem;line-height:2rem;text-align:left;font-weight:700;}#element-153 .x_9317fdfd{text-align:left;line-height:2rem;font-size:1.2384rem;}#element-153 .x_034773b5{color:#10162f;}#element-153 strong{font-weight:700;}#element-153.paragraph{font-weight:700;}#element-154{top:2.3125rem;left:59.9375rem;height:1.25rem;width:1.25rem;z-index:45;}#element-152{top:5.1875rem;left:-2.0625rem;height:1.3125rem;width:64rem;z-index:22;}#element-152 .shape{border-bottom:1px solid #10162F;}#page-block-vexyacndss{height:7.25rem;max-width:100%;}#page-block-vexyacndss .section-holder-border{border:0;}#page-block-vexyacndss .section-block{background:rgb(255,240,229);height:7.25rem;}#page-block-vexyacndss .section-holder-overlay{display:none;}#element-155{top:1.25rem;left:-2rem;height:3.25rem;width:59.875rem;z-index:13;color:#37465A;font-size:0.9907rem;line-height:1.6rem;text-align:left;}#element-155 .x_fae6260b{text-align:left;line-height:1.625rem;font-size:0.9907rem;}#element-155 .x_034773b5{color:#10162f;}#page-block-z0vzv3r06eb{height:1.5625rem;max-width:100%;}#page-block-z0vzv3r06eb .section-holder-border{border:0;}#page-block-z0vzv3r06eb .section-block{background:rgb(255,240,229);height:1.5625rem;}#page-block-z0vzv3r06eb .section-holder-overlay{display:none;}#page-block-wb8gw0lfsob{height:6.3125rem;max-width:100%;}#page-block-wb8gw0lfsob .section-holder-border{border:0;}#page-block-wb8gw0lfsob .section-block{background:rgb(255,240,229);height:6.3125rem;}#page-block-wb8gw0lfsob .section-holder-overlay{display:none;}#element-207{top:0.625rem;left:-2rem;height:2.8125rem;width:23.125rem;z-index:57;color:#37465A;font-size:1.7337rem;line-height:2.8rem;text-align:left;}#element-207 .x_6d380d2c{text-align:left;line-height:2.8125rem;font-size:1.7337rem;}#element-207 .x_7b2817bf{color:#000000;}#element-208{top:3.4375rem;left:-2rem;height:1.625rem;width:47.6875rem;z-index:58;color:#37465A;font-size:0.9907rem;line-height:1.6rem;text-align:left;}#element-208 .x_3579aa00{text-align:left;line-height:1.625rem;font-size:0.9907rem;}#element-208 .x_7b2817bf{color:#000000;}#page-block-htyiggq7zrj{height:5.9375rem;max-width:100%;}#page-block-htyiggq7zrj .section-holder-border{border:0;}#page-block-htyiggq7zrj .section-block{background:rgb(255,240,229);height:5.9375rem;}#page-block-htyiggq7zrj .section-holder-overlay{display:none;}#page-block-lyha1cy213o{height:1.5625rem;max-width:100%;}#page-block-lyha1cy213o .section-holder-border{border:0;}#page-block-lyha1cy213o .section-block{background:rgb(255,240,229);height:1.5625rem;}#page-block-lyha1cy213o .section-holder-overlay{display:none;}#page_block_below_fold{height:24.3125rem;max-width:100%;}#page_block_below_fold .section-holder-border{border:0;}#page_block_below_fold .section-block{background:rgb(245,252,255);height:24.3125rem;}#page_block_below_fold .section-holder-overlay{display:none;}#element-161{top:6.6875rem;left:3.25rem;height:7.4375rem;width:10.4375rem;z-index:55;}#element-161 .shape{border:0;border-radius:0 0 0 0;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII=) repeat rgb(245,252,255) 50% 50% / cover;}#element-162{top:8.25rem;left:45.6875rem;height:5.5rem;width:9.125rem;z-index:56;}#element-162 .shape{border:0;border-radius:0 0 0 0;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII=) repeat rgb(245,252,255) 50% 50% / cover;}#element-158{top:8.3125rem;left:18.5625rem;height:5.5rem;width:22.875rem;z-index:53;color:#37465A;font-size:2.7245rem;line-height:2.75rem;text-align:center;font-weight:700;}#element-158 .x_07204851{text-align:center;line-height:2.75rem;font-size:2.7245rem;}#element-158 .x_7b2817bf{color:#000000;}#element-158 strong{font-weight:700;}#element-158.headline{font-weight:700;}#element-160{top:16.3125rem;left:25.125rem;height:2.9375rem;width:9.75rem;z-index:54;}#element-160 .btn.btn-effect3d:active{box-shadow:none;}#element-160 .btn:hover{background:#1D2340;color:#F5FCFF;}#element-160 .btn{background:#3A10E5;color:#FFFFFF;font-size:0.9907rem;font-family:Apercu;font-weight:700;height:2.9375rem;width:9.75rem;border-radius:3px;}#page-block-jtjt4jbxjen{height:6.375rem;max-width:100%;}#page-block-jtjt4jbxjen .section-holder-border{border:0;}#page-block-jtjt4jbxjen .section-block{background:rgb(16,22,47);height:6.375rem;}#page-block-jtjt4jbxjen .section-holder-overlay{display:none;}#element-164{top:2.25rem;left:0;height:1.8125rem;width:8.5rem;z-index:5;}#element-163{top:2.5625rem;left:30.0625rem;height:1.375rem;width:29.875rem;z-index:4;color:#37465A;font-size:0.8669rem;line-height:1.4rem;text-align:right;}#element-163 .x_effd9815{text-align:right;line-height:1.375rem;font-size:0.8669rem;}#element-163 .x_e7329080{color:#fff0e5;}} 
+  </style>
+
+    <script>
+  window.__variantsData = [ { name: 'A', chance: 100 } ];
+
+window.__page_id = 23640983;
+  window.__customer_id = 4175211;
+  window.__default_experience_id = 23640983;
+  window.__version = 162;
+  window.__variant = "A";
+  window.__variant_id = 1;
+  window.__variant_custom_name = "Variation A";
+  window.__preview = false;
+  window.__page_type = 2;
+  window.__variant_hash = "17b5c38a7d7cd8881025ca098351c7637c873bc9";
+  window.__page_domain = "try.codecademy.com";
+  window.__page_generator = true;
+  window.__experiment_id = null;
+  window.__new_tracker = true;
+  window._Translate = { 
+    translations: {},
+    set: function (text, translation) { this.translations[text] = translation; },
+    get: function (text) { return this.translations[text] || text; }
+  };
+</script>
+<script id="ip-config" type="application/json">
+  {"mobileDisabled":false,"snowplowWrapperUrl":"//g.fastcdn.co/js/sptw.051afd940be1c95d0063.js","downloadFileEndpoint":"https://app.instapage.com/ajax/pageserver/files/serve-file","reCaptchaEnabled":false,"snowplowUrl":"https://cdn.instapagemetrics.com/t/js/3/it.js"}
+</script>
+
+  <script id="ip-analytics" type="application/json">{"trackingData":{"ownerId":3773336,"customerId":4175211,"pageId":23640983,"publishedVersion":162,"variationName":"A","variationId":1,"linkedVariationId":2,"variation":"A","trackedLinks":[{"href":"https://codecademyready.typeform.com/to/XQbvrV1r","ariaLabel":"Apply today","id":"wy1jclrrnqa","type":"url","track":true,"targetNewWindow":true,"passParameters":false},{"href":"https://codecademyready.typeform.com/to/XQbvrV1r","ariaLabel":"Apply today","id":"tuulzrdbit","type":"url","track":true,"targetNewWindow":true,"passParameters":false}],"allLinks":[{"href":"https://www.codecademy.com/","ariaLabel":"Codecademy logo","id":"4pmgkbh7udj","type":"url","track":false,"targetNewWindow":false,"passParameters":false},{"href":"#page-block-quvar42gd2","id":"w5rsbo20s9e","type":"onpage","track":false,"targetNewWindow":false,"passParameters":false},{"href":"https://codecademyready.typeform.com/to/XQbvrV1r","ariaLabel":"Apply today","id":"wy1jclrrnqa","type":"url","track":true,"targetNewWindow":true,"passParameters":false},{"href":"https://community.codecademy.com/","ariaLabel":"","id":"f2073cuo3sa","type":"url","track":false,"targetNewWindow":true,"passParameters":false},{"href":"mailto: community@codecademy.com","ariaLabel":"","id":"xzhuhrw3aoo","type":"url","track":false,"targetNewWindow":true,"passParameters":false},{"href":"https://codecademyready.typeform.com/to/XQbvrV1r","ariaLabel":"Apply today","id":"tuulzrdbit","type":"url","track":true,"targetNewWindow":true,"passParameters":false},{"href":"https://www.codecademy.com/","ariaLabel":"Codecademy logo","id":"55mjjtxqm6g","type":"url","track":false,"targetNewWindow":false,"passParameters":false}],"user_id":3773336},"conversionSettings":{"forms":false,"links":true,"external":false}}</script>
+
+  <script id="ip-trkr" type="text/javascript" async=1>
+    ;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+    p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+    };p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+    n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","https://cdn.instapagemetrics.com/t/js/3/it.js","instapageSp"));
+    ;(function(i,n,s,t,a,p,g){i[a]||(i[a]=function(){(i[a].q=i[a].q||[]).push(arguments)},
+    i[a].q=i[a].q||[],p=n.createElement(s),g=n.getElementsByTagName(s)[0],p.async=1,
+    p.src=t,g.parentNode.insertBefore(p,g))}(window,document,"script","//g.fastcdn.co/js/sptw.051afd940be1c95d0063.js","_instapageSnowplow"));
+    try {
+      var trackingData = JSON.parse(document.querySelector('#ip-analytics').text).trackingData;
+      window._instapageSnowplow('setWrapperConfig', {
+        lpContext: {
+          lp_id: trackingData.pageId,
+          lp_variation_id: trackingData.variationId,
+          lp_version: trackingData.publishedVersion,
+          subaccount_id: trackingData.customerId
+        },
+        collectorHost: "https://ec.instapagemetrics.com"
+      });
+      if (!localStorage.getItem('IP_NO_TRACKING')) {
+        window._instapageSnowplow('enableActivityTracking');
+        window._instapageSnowplow('trackPageView');
+      }
+    } catch (e) {
+      console.warn('Snowplow tracker error', e);
+    }
+  </script>
+
+  <script id="ip-cm" type="text/javascript" async=1>
+    ;(function(c,o,n,s,e,m,a){c[e]||(c[e]=function(){(c[e].q=c[e].q||[]).push(arguments)},
+     c[e].q=c[e].q||[],m=o.createElement(n),a=o.getElementsByTagName(n)[0],m.async=1,
+     m.src=s,a.parentNode.insertBefore(m,a))}(window,document,"script","https://g.fastcdn.co/js/cm.js","_instapageConsentManagement"));
+ </script>
+
+
+
+
+
+    <script   src="//g.fastcdn.co/js/utils.bcf03997485feb49f2c7.js"></script>
+
+  <!-- F_INSTAPAGE[dynamic_text_replacement;page_generator] -->
+
+  <!-- Workspace Level Script Head -->
+  
+  <!-- end Workspace Level Script Head -->
+
+  <!-- custom HEAD code-->
+  <style>
+  /** FAQ */
+  .answer {
+    overflow: hidden;
+    max-height: 0;
+    transition: max-height 0.25s ease-out;
+  }
+
+  .question {
+    cursor: pointer;
+  }
+
+  .question img[alt="faq-icon"],
+  .question img[alt="plus-icon"] {
+    transition: all .35s ease-in-out;
+  }
+
+  .question.active img[alt="faq-icon"],
+  .question.active img[alt="plus-icon"] {
+    transform: rotate(-45deg);
+  }
+</style>
+  <script>
+  addEventListener('message', event => {
+    const { origin, data } = event;
+    if (origin.endsWith('codecademy.com') && data?.codecademyPath) {
+              window.top.location.assign(origin + data.codecademyPath);
+    }});
+</script>
+  <!-- end custom HEAD code-->
+</head>
+<body id="landing-page">
+<!-- Workspace Level Script Body -->
+<script>
+var session_setter = function () {
+    var xhr = new XMLHttpRequest();
+    xhr.withCredentials = true;
+    xhr.open("GET", 'https://www.codecademy.com/users/session?skip_initial_referrer=true');
+    xhr.setRequestHeader("Access-Control-Allow-Credentials","true");
+    xhr.setRequestHeader('Content-Type', 'application/json');
+    xhr.send();
+}
+setTimeout(session_setter,0);
+
+
+var user_visit = function () {
+    var xhr = new XMLHttpRequest();
+        xhr.withCredentials = true;
+        xhr.open("POST", 'https://www.codecademy.com/analytics/user' + window.location.search, true);
+        xhr.setRequestHeader("Access-Control-Allow-Credentials","true");
+        xhr.setRequestHeader('Content-Type', 'application/json');
+        xhr.send(JSON.stringify({
+        category: 'user',
+        event: 'visit',
+        properties: {"page_name": "instapage",
+                    "source_codebase":"monolith",
+                    "fullpath":window.location.pathname,
+                    "search":window.location.search,
+                    "path":window.location.pathname,
+                    "title": document.title,
+                    "url":window.location.href,
+                    "referrer":document.referrer,
+                    "client":"default",
+                    "misc": JSON.stringify({ 
+                        "instapage_variant": __variant,
+                        "instapage_variant_name": __variant_custom_name,
+                        "instapage_experiment_id": __experiment_id
+                        })
+                    },
+        gdpr_safe: 'undefined'
+    }));
+}
+setTimeout(user_visit,1900);
+
+window.addEventListener('DOMContentLoaded', function () {
+    function handler(e) {
+      var link = e.target;
+      var xhr = new XMLHttpRequest(); 
+      xhr.withCredentials = true;
+      xhr.open("POST", 'https://www.codecademy.com/analytics/user' + window.location.search, true);
+      xhr.setRequestHeader("Access-Control-Allow-Credentials","true");
+      xhr.setRequestHeader('Content-Type', 'application/json');
+      xhr.send(JSON.stringify({
+      category: 'user',
+      event: 'click',
+      properties: {"page_name": "instapage",
+                "source_codebase":"monolith",
+                "fullpath":window.location.pathname,
+                "search":window.location.search,
+                "path":window.location.pathname,
+                "title": document.title,
+                "url":window.location.href,
+                "referrer":document.referrer,
+                "client":"default",
+                "target": link.href,
+                "misc": JSON.stringify({ 
+                    "instapage_variant": __variant,
+                    "instapage_variant_name": __variant_custom_name,
+                    "instapage_experiment_id": __experiment_id
+                    })
+                },
+       gdpr_safe: 'undefined'
+       }));
+    }
+  
+    var elements = document.querySelectorAll("a");
+    for (var i = 0; i < elements.length; i++) {
+        var element = elements[i];
+        if (element.parentElement.id && element.parentElement.id.match(/^element-/)) {
+            element.addEventListener("click", handler);
+        }
+    }
+});
+</script>
+
+<!-- end Workspace Level Script Body -->
+
+<!-- custom BODY code-->
+
+
+<!-- end custom BODY code-->
+
+
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KTLK85W"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+<main class="">
+    <section class="section section-relative " id="page-block-gcivwbkd3h9" data-at="section">
+   
+  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
+  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
+  <div class="section-block">
+    <div class="section-inner section-fit section-relative">
+        <div class="widget item-absolute  " id="element-1">
+  <div class="contents cropped item-block" data-at="image-cropp">
+    <a
+      href="https://www.codecademy.com/" 
+      class="url-link item-content-box item-block" 
+      id="link-4pmgkbh7udj"
+      aria-label="Codecademy logo"
+      data-at="image-link"
+      data-link-4pmgkbh7udj
+      
+      
+      
+      
+    >
+      <img
+        class="item-content-box item-block image "
+        data-at="image"
+        alt=""
+        src="//v.fastcdn.co/u/493dc467/59595016-0-Codecademy-black-GRA.svg"
+        srcset="//v.fastcdn.co/u/493dc467/59595016-0-Codecademy-black-GRA.svg 2x"
+      >
+    </a>
+  </div>
+</div>
+
+    </div>
+  </div>
+</section>
+
+    <section class="section section-relative " id="page-block-81jpq36f0hd" data-at="section">
+   
+  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
+  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
+  <div class="section-block">
+    <div class="section-inner section-fit section-relative">
+        <div class="widget item-absolute " id="element-131">
+  <div
+    class="contents shape  box figure " 
+    data-at="shape" 
+    
+  ></div>
+</div>
+
+        <div class="widget item-absolute headline " id="element-20" data-at="headline">
+  <div class="contents">
+    <h1>
+      <span  class="x_e28fdc68 x_fd7d81e5"><span  class="x_7b2817bf">Are you a community superhero?</span></span>
+    </h1>
+  </div>
+</div>
+
+        <div class="widget item-absolute paragraph  " id="element-22" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_9811881d x_e6507cf2"><span  class="x_7b2817bf">If you’re an active member of the Codecademy community, we’re looking for you! Join the Code Crew to give back by helping peers on their own learning journeys.</span></p>
+  </div>
+</div>
+
+    </div>
+  </div>
+</section>
+
+    <section class="section section-relative " id="page-block-n7878m47ag" data-at="section">
+   
+  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
+  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
+  <div class="section-block">
+    <div class="section-inner section-fit section-relative">
+        <div class="widget item-absolute " id="element-42">
+  <div
+    class="contents shape  circle figure " 
+    data-at="shape" 
+    
+  ></div>
+</div>
+
+        <div class="widget item-absolute " id="element-45">
+  <div
+    class="contents shape  circle figure " 
+    data-at="shape" 
+    
+  ></div>
+</div>
+
+        <div class="widget item-absolute " id="element-48">
+  <div
+    class="contents shape  circle figure " 
+    data-at="shape" 
+    
+  ></div>
+</div>
+
+        <div class="widget item-absolute headline " id="element-41" data-at="headline">
+  <div class="contents">
+    <h3>
+      <span  class="x_da6ad2be"><span  class="x_f2074b6c">Make an impact</span></span>
+    </h3>
+  </div>
+</div>
+
+        <div class="widget item-absolute headline " id="element-44" data-at="headline">
+  <div class="contents">
+    <h3>
+      <span  class="x_da6ad2be"><span  class="x_f2074b6c">Get exclusive perks</span></span>
+    </h3>
+  </div>
+</div>
+
+        <div class="widget item-absolute headline " id="element-47" data-at="headline">
+  <div class="contents">
+    <h3>
+      <span  class="x_da6ad2be"><span  class="x_f2074b6c">Build lasting connections</span></span>
+    </h3>
+  </div>
+</div>
+
+    </div>
+  </div>
+</section>
+
+    <section class="section section-relative " id="page-block-xp3lg8geysi" data-at="section">
+   
+  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
+  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
+  <div class="section-block">
+    <div class="section-inner section-fit section-relative">
+        <div class="widget item-absolute headline " id="element-55" data-at="headline">
+  <div class="contents">
+    <h1>
+      <span  class="x_07204851 x_f82204f0"><span  class="x_034773b5">What’s the Code Crew?</span></span>
+    </h1>
+  </div>
+</div>
+
+        <div class="widget item-absolute paragraph  " id="element-56" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_dc68832a"><span  class="x_034773b5">We’re an exclusive group of learners leading discussions and hosting events across the Codecademy community.&nbsp;</span></p><p  class="x_dc68832a"><span  class="x_034773b5"><br></span></p><p  class="x_dc68832a"><span  class="x_034773b5">We always welcome new applicants. Before you apply, </span><u  ><strong  ><a href="#page-block-quvar42gd2" id="link-w5rsbo20s9e" data-link-w5rsbo20s9e class="onpage-link">check our eligibility requirements here.</a></strong>&nbsp;</u></p>
+  </div>
+</div>
+
+    </div>
+  </div>
+</section>
+
+    <section class="section section-relative " id="page-block-2mv6yynvczn" data-at="section">
+   
+  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
+  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
+  <div class="section-block">
+    <div class="section-inner section-fit section-relative">
+        <div class="widget item-absolute headline " id="element-279" data-at="headline">
+  <div class="contents">
+    <h1>
+      <span  class="x_11909a12 x_47b745f5"><span  class="x_7b2817bf">Hear from the crew</span></span>
+    </h1>
+  </div>
+</div>
+
+        <div class="widget item-absolute  " id="element-280">
+  <div class="contents cropped item-block" data-at="image-cropp">
+      <img
+        class="item-content-box item-block image img-lazy"
+        data-at="image"
+        alt=""
+        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII&#x3D;"
+        data-src="//v.fastcdn.co/t/595c9b42/ad86d887/1731154238-65175108-160x156-Testimonial-Michael-.png"
+        data-retina-src="//v.fastcdn.co/t/595c9b42/ad86d887/1731154238-65175108-160x156-Testimonial-Michael-.png"
+      >
+  </div>
+</div>
+
+        <div class="widget item-absolute paragraph  " id="element-281" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_052b6b4c x_b558b569"><span  class="x_034773b5">“The connections and friendships forged through the Code Crew create a powerful network that enriches your life and career, making it a truly gratifying experience.”</span></p>
+  </div>
+</div>
+
+        <div class="widget item-absolute paragraph  " id="element-282" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_0a34168d x_47a309de"><span  class="x_034773b5"><strong  >Michael Wiltfong</strong></span></p><p  class="x_0a34168d x_47a309de"><span  class="x_034773b5">Ottawa, Canada</span></p>
+  </div>
+</div>
+
+        <div class="widget item-absolute  " id="element-283">
+  <div class="contents cropped item-block" data-at="image-cropp">
+      <img
+        class="item-content-box item-block image img-lazy"
+        data-at="image"
+        alt=""
+        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII&#x3D;"
+        data-src="//v.fastcdn.co/t/595c9b42/ad86d887/1731154241-65175112-160x156-Testimonial-Christin.png"
+        data-retina-src="//v.fastcdn.co/t/595c9b42/ad86d887/1731154241-65175112-160x156-Testimonial-Christin.png"
+      >
+  </div>
+</div>
+
+        <div class="widget item-absolute paragraph  " id="element-284" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_052b6b4c x_b558b569"><span  class="x_034773b5">“Being a part of Code Crew has been a great experience. I met wonderful people in this community who broaden my understanding of tech.”</span></p>
+  </div>
+</div>
+
+        <div class="widget item-absolute paragraph  " id="element-285" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_0a34168d x_47a309de"><span  class="x_34f1c423"><strong  >Christine Belzie</strong></span></p><p  class="x_0a34168d x_47a309de"><span  class="x_034773b5">Middletown, New York</span></p>
+  </div>
+</div>
+
+        <div class="widget item-absolute  " id="element-286">
+  <div class="contents cropped item-block" data-at="image-cropp">
+      <img
+        class="item-content-box item-block image img-lazy"
+        data-at="image"
+        alt=""
+        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII&#x3D;"
+        data-src="//v.fastcdn.co/t/595c9b42/ad86d887/1731154244-65175107-160x156-Testimonial-Omar-Els.png"
+        data-retina-src="//v.fastcdn.co/t/595c9b42/ad86d887/1731154244-65175107-160x156-Testimonial-Omar-Els.png"
+      >
+  </div>
+</div>
+
+        <div class="widget item-absolute paragraph  " id="element-287" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_052b6b4c x_b558b569"><span  class="x_034773b5">“I learned iOS from Codecademy, [and] I want to help others to learn and share my knowledge with them to make their experiences as beautiful as mine.”</span></p>
+  </div>
+</div>
+
+        <div class="widget item-absolute paragraph  " id="element-288" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_0a34168d x_47a309de"><span  class="x_034773b5"><strong  >Omar Elsayed</strong></span></p><p  class="x_0a34168d x_47a309de">Cairo, Egypt</p>
+  </div>
+</div>
+
+        <div class="widget item-absolute  " id="element-290">
+  <div class="contents cropped item-block" data-at="image-cropp">
+      <img
+        class="item-content-box item-block image img-lazy"
+        data-at="image"
+        alt=""
+        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII&#x3D;"
+        data-src="//v.fastcdn.co/t/595c9b42/ad86d887/1731154247-65175109-160x156-Testimonial-Grace-Ki.png"
+        data-retina-src="//v.fastcdn.co/t/595c9b42/ad86d887/1731154247-65175109-160x156-Testimonial-Grace-Ki.png"
+      >
+  </div>
+</div>
+
+        <div class="widget item-absolute paragraph  " id="element-291" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_052b6b4c x_b558b569"><span  class="x_034773b5">“I’m loving connecting with people all over the world, supporting them, and being supported in my coding journey. Being part of Code Crew is also helping me so much in my job search. Another great benefit is that it’s improving my performance in my current role.”</span></p>
+  </div>
+</div>
+
+        <div class="widget item-absolute paragraph  " id="element-293" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_0a34168d x_47a309de"><span  class="x_034773b5"><strong  >Grace Kishino</strong></span></p><p  class="x_0a34168d x_47a309de"><span  class="x_034773b5">Tokyo, Japan</span></p>
+  </div>
+</div>
+
+    </div>
+  </div>
+</section>
+
+    <section class="section section-relative " id="page-block-jt9doc5sdi" data-at="section">
+   
+  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
+  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
+  <div class="section-block">
+    <div class="section-inner section-fit section-relative">
+        <div class="widget item-absolute headline " id="element-132" data-at="headline">
+  <div class="contents">
+    <h1>
+      <span  class="x_11909a12 x_f82204f0"><span  class="x_f2074b6c">How to join </span></span>
+    </h1>
+  </div>
+</div>
+
+        <div class="widget item-absolute  " id="element-13">
+  <div class="contents cropped item-block" data-at="image-cropp">
+      <img
+        class="item-content-box item-block image img-lazy"
+        data-at="image"
+        alt=""
+        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII&#x3D;"
+        data-src="//v.fastcdn.co/u/595c9b42/63887505-0-1.svg"
+        data-retina-src="//v.fastcdn.co/u/595c9b42/63887505-0-1.svg"
+      >
+  </div>
+</div>
+
+        <div class="widget item-absolute  " id="element-15">
+  <div class="contents cropped item-block" data-at="image-cropp">
+      <img
+        class="item-content-box item-block image img-lazy"
+        data-at="image"
+        alt=""
+        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII&#x3D;"
+        data-src="//v.fastcdn.co/u/595c9b42/63887520-0-2.svg"
+        data-retina-src="//v.fastcdn.co/u/595c9b42/63887520-0-2.svg"
+      >
+  </div>
+</div>
+
+        <div class="widget item-absolute  " id="element-14">
+  <div class="contents cropped item-block" data-at="image-cropp">
+      <img
+        class="item-content-box item-block image img-lazy"
+        data-at="image"
+        alt=""
+        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII&#x3D;"
+        data-src="//v.fastcdn.co/u/595c9b42/63887522-0-3.svg"
+        data-retina-src="//v.fastcdn.co/u/595c9b42/63887522-0-3.svg"
+      >
+  </div>
+</div>
+
+        <div class="widget item-absolute paragraph  " id="element-9" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_a2e00130"><span  class="x_f2074b6c">Check your eligibility</span></p>
+  </div>
+</div>
+
+        <div class="widget item-absolute paragraph  " id="element-8" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_a2e00130"><span  class="x_f2074b6c">Get an invite</span></p>
+  </div>
+</div>
+
+        <div class="widget item-absolute paragraph  " id="element-7" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_a2e00130"><span  class="x_f2074b6c">Start helping others</span></p>
+  </div>
+</div>
+
+        <div class="widget item-absolute paragraph  " id="element-12" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_dc68832a x_2c80ab57"><span  class="x_f2074b6c">Review Code Crew requirements. If you match, click apply.</span></p>
+  </div>
+</div>
+
+        <div class="widget item-absolute paragraph  " id="element-11" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_dc68832a x_2c80ab57"><span  class="x_f2074b6c">If you’re a good fit, you’ll receive an official invitation to join the Code Crew.</span></p>
+  </div>
+</div>
+
+        <div class="widget item-absolute paragraph  " id="element-10" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_dc68832a x_2c80ab57"><span  class="x_f2074b6c">You’ll get your badge to start connecting in the community.</span></p>
+  </div>
+</div>
+
+        <div class="widget item-absolute " id="element-133">
+  <a
+    href="https://codecademyready.typeform.com/to/XQbvrV1r" 
+    id="link-wy1jclrrnqa"
+    target="_blank"
+    class="url-link btn    item-block"
+    data-at="button"
+    data-link-wy1jclrrnqa
+    aria-label="Apply today"
+    
+    
+    
+    
+  >
+      Apply today
+  </a>
+</div>
+
+    </div>
+  </div>
+</section>
+
+    <section class="section section-relative " id="page-block-quvar42gd2" data-at="section">
+   
+  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
+  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
+  <div class="section-block">
+    <div class="section-inner section-fit section-relative">
+        <div class="widget item-absolute paragraph  " id="element-135" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_4c2ab017 x_56c6f2d0"><strong  ><span  class="x_7b2817bf">Frequently asked questions</span></strong></p>
+  </div>
+</div>
+
+    </div>
+  </div>
+</section>
+
+    <section class="section section-relative " id="page-block-051kmq9yh42a" data-at="section">
+   
+  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
+  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
+  <div class="section-block">
+    <div class="section-inner section-fit section-relative">
+        <div class="widget item-absolute paragraph  " id="element-137" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_9317fdfd x_8f2182eb"><span  class="x_034773b5">Who is eligible to apply?</span></p>
+  </div>
+</div>
+
+        <div class="widget item-absolute  " id="element-138">
+  <div class="contents cropped item-block" data-at="image-cropp">
+      <img
+        class="item-content-box item-block image img-lazy"
+        data-at="image"
+        alt="faq-icon"
+        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII&#x3D;"
+        data-src="//v.fastcdn.co/u/493dc467/59732380-0-Plus.svg"
+        data-retina-src="//v.fastcdn.co/u/493dc467/59732380-0-Plus.svg"
+      >
+  </div>
+</div>
+
+        <div class="widget item-absolute " id="element-136">
+  <div
+    class="contents shape  line-horizontal line " 
+    data-at="shape" 
+    
+  ></div>
+</div>
+
+    </div>
+  </div>
+</section>
+
+    <section class="section section-relative " id="page-block-bqrqja4k6af" data-at="section">
+   
+  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
+  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
+  <div class="section-block">
+    <div class="section-inner section-fit section-relative">
+        <div class="widget item-absolute paragraph  " id="element-139" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_fae6260b x_0a34168d"><span  class="x_034773b5">The Code Crew is an exclusive group of community superheroes.</span></p><p  class="x_fae6260b x_0a34168d"><span  class="x_034773b5"><br></span></p><p  class="x_fae6260b x_0a34168d"><span  class="x_034773b5">To be eligible to apply, you should be able to show how you’ve been active in the Codecademy community. Do you engage others, answer questions, and keep the conversation going in our community? If so, we’d like to hear from you!&nbsp;</span></p><p  class="x_fae6260b x_0a34168d"><span  class="x_034773b5"><br></span></p><p  class="x_fae6260b x_0a34168d"><span  class="x_034773b5">Before applying, make sure your profile includes:</span></p><ul  class="x_fae6260b x_0a34168d"><li  ><span  class="x_034773b5">Real first name and last initial</span></li><li  ><span  class="x_034773b5">Real profile picture</span></li><li  ><span  class="x_034773b5">Email address</span></li><li  ><span  class="x_034773b5">City, (state/province), country</span></li><li  ><span  class="x_034773b5">Age (must be 18+)</span></li></ul><p  class="x_fae6260b x_0a34168d"><span  class="x_034773b5"></span></p>
+  </div>
+</div>
+
+    </div>
+  </div>
+</section>
+
+    <section class="section section-relative " id="page-block-qcr8y07w4s" data-at="section">
+   
+  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
+  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
+  <div class="section-block">
+    <div class="section-inner section-fit section-relative">
+        <div class="widget item-absolute paragraph  " id="element-255" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_9317fdfd x_8f2182eb"><span  class="x_034773b5">What if I don’t meet all requirements?</span></p>
+  </div>
+</div>
+
+        <div class="widget item-absolute  " id="element-256">
+  <div class="contents cropped item-block" data-at="image-cropp">
+      <img
+        class="item-content-box item-block image img-lazy"
+        data-at="image"
+        alt="faq-icon"
+        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII&#x3D;"
+        data-src="//v.fastcdn.co/u/493dc467/59732380-0-Plus.svg"
+        data-retina-src="//v.fastcdn.co/u/493dc467/59732380-0-Plus.svg"
+      >
+  </div>
+</div>
+
+        <div class="widget item-absolute " id="element-254">
+  <div
+    class="contents shape  line-horizontal line " 
+    data-at="shape" 
+    
+  ></div>
+</div>
+
+    </div>
+  </div>
+</section>
+
+    <section class="section section-relative " id="page-block-kt367rutdn" data-at="section">
+   
+  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
+  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
+  <div class="section-block">
+    <div class="section-inner section-fit section-relative">
+        <div class="widget item-absolute paragraph  " id="element-258" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_fae6260b x_0a34168d"><span  class="x_034773b5">No need to worry. Here are a few ways you can take a more active role in our community and become eligible to apply for the Code Crew.</span></p><ul  class="x_fae6260b x_0a34168d"><li  >Start regularly posting and interacting <a href="https://community.codecademy.com/" id="link-f2073cuo3sa" target="_blank" data-link-f2073cuo3sa class="url-link"><u  ><span  class="x_43b315d8">in our community</span></u></a></li><li  >Answer open questions and help others&nbsp;</li><li  >Engage, lead, or co-lead a local club&nbsp;&nbsp;</li><li  >Suggest ideas for and help organize new clubs and community events&nbsp;&nbsp;</li><li  >Got other ideas? We’d like to hear them&nbsp;</li></ul>
+  </div>
+</div>
+
+    </div>
+  </div>
+</section>
+
+    <section class="section section-relative " id="page-block-786u9xg7gh" data-at="section">
+   
+  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
+  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
+  <div class="section-block">
+    <div class="section-inner section-fit section-relative">
+        <div class="widget item-absolute paragraph  " id="element-141" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_9317fdfd x_8f2182eb"><span  class="x_034773b5">What does the Code Crew do?</span></p>
+  </div>
+</div>
+
+        <div class="widget item-absolute  " id="element-142">
+  <div class="contents cropped item-block" data-at="image-cropp">
+      <img
+        class="item-content-box item-block image img-lazy"
+        data-at="image"
+        alt="faq-icon"
+        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII&#x3D;"
+        data-src="//v.fastcdn.co/u/493dc467/59732380-0-Plus.svg"
+        data-retina-src="//v.fastcdn.co/u/493dc467/59732380-0-Plus.svg"
+      >
+  </div>
+</div>
+
+        <div class="widget item-absolute " id="element-140">
+  <div
+    class="contents shape  line-horizontal line " 
+    data-at="shape" 
+    
+  ></div>
+</div>
+
+    </div>
+  </div>
+</section>
+
+    <section class="section section-relative " id="page-block-zel4m4nr8p" data-at="section">
+   
+  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
+  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
+  <div class="section-block">
+    <div class="section-inner section-fit section-relative">
+        <div class="widget item-absolute paragraph  " id="element-143" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_fae6260b x_0a34168d"><span  class="x_034773b5">The Code Crew creates helpful and welcoming spaces across the Codecademy community. Members do things like post new discussion topics, answer open questions, host events, lead conversations, or create and update Docs.</span></p>
+  </div>
+</div>
+
+    </div>
+  </div>
+</section>
+
+    <section class="section section-relative " id="page-block-mqkp9g8cah" data-at="section">
+   
+  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
+  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
+  <div class="section-block">
+    <div class="section-inner section-fit section-relative">
+        <div class="widget item-absolute paragraph  " id="element-145" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_9317fdfd x_8f2182eb"><span  class="x_034773b5">What happens after I apply?</span></p>
+  </div>
+</div>
+
+        <div class="widget item-absolute  " id="element-146">
+  <div class="contents cropped item-block" data-at="image-cropp">
+      <img
+        class="item-content-box item-block image img-lazy"
+        data-at="image"
+        alt="faq-icon"
+        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII&#x3D;"
+        data-src="//v.fastcdn.co/u/493dc467/59732380-0-Plus.svg"
+        data-retina-src="//v.fastcdn.co/u/493dc467/59732380-0-Plus.svg"
+      >
+  </div>
+</div>
+
+        <div class="widget item-absolute " id="element-144">
+  <div
+    class="contents shape  line-horizontal line " 
+    data-at="shape" 
+    
+  ></div>
+</div>
+
+    </div>
+  </div>
+</section>
+
+    <section class="section section-relative " id="page-block-4scwk8dqfts" data-at="section">
+   
+  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
+  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
+  <div class="section-block">
+    <div class="section-inner section-fit section-relative">
+        <div class="widget item-absolute paragraph  " id="element-147" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_fae6260b x_0a34168d"><span  class="x_034773b5">Our team reviews your application and may set up a short virtual interview. Eligible applicants will get an official invite with access to exclusive Code Crew perks, merch, and opportunities.</span></p>
+  </div>
+</div>
+
+    </div>
+  </div>
+</section>
+
+    <section class="section section-relative " id="page-block-kzttzn3soom" data-at="section">
+   
+  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
+  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
+  <div class="section-block">
+    <div class="section-inner section-fit section-relative">
+        <div class="widget item-absolute paragraph  " id="element-149" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_9317fdfd x_8f2182eb"><span  class="x_034773b5">Is it free to participate?</span></p>
+  </div>
+</div>
+
+        <div class="widget item-absolute  " id="element-150">
+  <div class="contents cropped item-block" data-at="image-cropp">
+      <img
+        class="item-content-box item-block image img-lazy"
+        data-at="image"
+        alt="faq-icon"
+        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII&#x3D;"
+        data-src="//v.fastcdn.co/u/493dc467/59732380-0-Plus.svg"
+        data-retina-src="//v.fastcdn.co/u/493dc467/59732380-0-Plus.svg"
+      >
+  </div>
+</div>
+
+        <div class="widget item-absolute " id="element-148">
+  <div
+    class="contents shape  line-horizontal line " 
+    data-at="shape" 
+    
+  ></div>
+</div>
+
+    </div>
+  </div>
+</section>
+
+    <section class="section section-relative " id="page-block-z8brn7eh3k" data-at="section">
+   
+  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
+  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
+  <div class="section-block">
+    <div class="section-inner section-fit section-relative">
+        <div class="widget item-absolute paragraph  " id="element-151" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_fae6260b x_0a34168d"><span  class="x_034773b5">Yes! All we ask is for you to continue regularly engaging with our community to help others reach their coding goals.</span></p>
+  </div>
+</div>
+
+    </div>
+  </div>
+</section>
+
+    <section class="section section-relative " id="page-block-0o8uy40jd8lp" data-at="section">
+   
+  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
+  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
+  <div class="section-block">
+    <div class="section-inner section-fit section-relative">
+        <div class="widget item-absolute paragraph  " id="element-153" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_9317fdfd x_8f2182eb"><span  class="x_034773b5">What are the perks?</span></p>
+  </div>
+</div>
+
+        <div class="widget item-absolute  " id="element-154">
+  <div class="contents cropped item-block" data-at="image-cropp">
+      <img
+        class="item-content-box item-block image img-lazy"
+        data-at="image"
+        alt="faq-icon"
+        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII&#x3D;"
+        data-src="//v.fastcdn.co/u/493dc467/59732380-0-Plus.svg"
+        data-retina-src="//v.fastcdn.co/u/493dc467/59732380-0-Plus.svg"
+      >
+  </div>
+</div>
+
+        <div class="widget item-absolute " id="element-152">
+  <div
+    class="contents shape  line-horizontal line " 
+    data-at="shape" 
+    
+  ></div>
+</div>
+
+    </div>
+  </div>
+</section>
+
+    <section class="section section-relative " id="page-block-vexyacndss" data-at="section">
+   
+  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
+  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
+  <div class="section-block">
+    <div class="section-inner section-fit section-relative">
+        <div class="widget item-absolute paragraph  " id="element-155" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_fae6260b x_0a34168d"><span  class="x_034773b5">You’ll get a cool profile badge that shows everyone you’re Code Crew official. It also unlocks access to Code Crew merch, perks like exclusive events, access to a private Code Crew space in the forums, and more.</span></p>
+  </div>
+</div>
+
+    </div>
+  </div>
+</section>
+
+    <section class="section section-relative " id="page-block-z0vzv3r06eb" data-at="section">
+   
+  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
+  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
+  <div class="section-block">
+    <div class="section-inner section-fit section-relative">
+    </div>
+  </div>
+</section>
+
+    <section class="section section-relative " id="page-block-wb8gw0lfsob" data-at="section">
+   
+  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
+  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
+  <div class="section-block">
+    <div class="section-inner section-fit section-relative">
+        <div class="widget item-absolute headline " id="element-207" data-at="headline">
+  <div class="contents">
+    <h1>
+      <span  class="x_6d380d2c x_8b27949e"><span  class="x_7b2817bf">Questions?</span></span>
+    </h1>
+  </div>
+</div>
+
+        <div class="widget item-absolute paragraph  " id="element-208" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_3579aa00 x_ef245e2e"><span  class="x_7b2817bf">Email us at <a href="mailto: community@codecademy.com" id="link-xzhuhrw3aoo" target="_blank" data-link-xzhuhrw3aoo class="url-link">community@codecademy.com</a></span></p>
+  </div>
+</div>
+
+    </div>
+  </div>
+</section>
+
+    <section class="section section-relative " id="page-block-htyiggq7zrj" data-at="section">
+   
+  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
+  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
+  <div class="section-block">
+    <div class="section-inner section-fit section-relative">
+    </div>
+  </div>
+</section>
+
+    <section class="section section-relative hidden-mobile" id="page-block-lyha1cy213o" data-at="section">
+   
+  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
+  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
+  <div class="section-block">
+    <div class="section-inner section-fit section-relative">
+    </div>
+  </div>
+</section>
+
+    <section class="section section-relative " id="page_block_below_fold" data-at="section">
+   
+  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
+  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
+  <div class="section-block">
+    <div class="section-inner section-fit section-relative">
+        <div class="widget item-absolute " id="element-161">
+  <div
+    class="contents shape img-lazy box figure " 
+    data-at="shape" 
+    data-src="//v.fastcdn.co/u/595c9b42/63895009-0-codecrew-bottom-modu.png"
+  ></div>
+</div>
+
+        <div class="widget item-absolute " id="element-162">
+  <div
+    class="contents shape img-lazy box figure " 
+    data-at="shape" 
+    data-src="//v.fastcdn.co/u/595c9b42/63887531-0-CC-elements.svg"
+  ></div>
+</div>
+
+        <div class="widget item-absolute headline " id="element-158" data-at="headline">
+  <div class="contents">
+    <h1>
+      <span  class="x_07204851 x_a76aec5f"><span  class="x_7b2817bf">Ready to join the Code Crew?</span></span>
+    </h1>
+  </div>
+</div>
+
+        <div class="widget item-absolute " id="element-160">
+  <a
+    href="https://codecademyready.typeform.com/to/XQbvrV1r" 
+    id="link-tuulzrdbit"
+    target="_blank"
+    class="url-link btn    item-block"
+    data-at="button"
+    data-link-tuulzrdbit
+    aria-label="Apply today"
+    
+    
+    
+    
+  >
+      Apply today
+  </a>
+</div>
+
+    </div>
+  </div>
+</section>
+
+    <section class="section section-relative " id="page-block-jtjt4jbxjen" data-at="section">
+   
+  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
+  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
+  <div class="section-block">
+    <div class="section-inner section-fit section-relative">
+        <div class="widget item-absolute  " id="element-164">
+  <div class="contents cropped item-block" data-at="image-cropp">
+    <a
+      href="https://www.codecademy.com/" 
+      class="url-link item-content-box item-block" 
+      id="link-55mjjtxqm6g"
+      aria-label="Codecademy logo"
+      data-at="image-link"
+      data-link-55mjjtxqm6g
+      
+      
+      
+      
+    >
+      <img
+        class="item-content-box item-block image img-lazy"
+        data-at="image"
+        alt="Codecademy logo"
+        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mM89h8AApEBx2iaqpQAAAAASUVORK5CYII&#x3D;"
+        data-src="//v.fastcdn.co/u/595c9b42/59260472-0-Codecademy-beige.svg"
+        data-retina-src="//v.fastcdn.co/u/595c9b42/59260472-0-Codecademy-beige.svg"
+      >
+    </a>
+  </div>
+</div>
+
+        <div class="widget item-absolute paragraph  " id="element-163" data-at="paragraph">
+  <div class="contents">
+    <p  class="x_effd9815 x_403fca71"><span  class="x_e7329080">Copyright © 2023. All rights reserved.</span></p>
+  </div>
+</div>
+
+    </div>
+  </div>
+</section>
+
+</main>
+
+
+
+
+
+
+<!-- Workspace Level Script Footer -->
+
+<!-- end Workspace Level Script Footer -->
+
+<!-- custom FOOTER code-->
+
+<script>
+// grab params from window
+var params = window.location.search.replace('?', '&');
+var buttonLinks = document.querySelectorAll('.url-link.btn');
+
+// loop thru button links and add params
+Array.prototype.forEach.call(buttonLinks, function(btn) {
+  if (btn.href.indexOf('?') > 1) {
+    btn.href = btn.href + params;
+  } else {
+    btn.href = btn.href + params.replace('&', '?');
+  }
+});
+</script><script>
+  var staticHeader = document.querySelector('.section:nth-child(2)');
+  var header = document.querySelector('.section:first-child');
+  var timeout;
+
+  // after DOM load
+  window.addEventListener('DOMContentLoaded', function () {
+    header.classList.add('sticky-header');
+    // Listen for scroll events
+    window.addEventListener('scroll', function () {
+      // If there's a timer, cancel it
+      if (timeout) {
+        window.cancelAnimationFrame(timeout);
+      }
+      // Setup the new requestAnimationFrame()
+      timeout = window.requestAnimationFrame(function () {
+        // add .active to header when passing hero
+        activeWhenBelowEl(staticHeader, header);
+      });
+
+    }, false);
+  });
+
+  // add active to el2 when window below el1
+  function activeWhenBelowEl(el1, el2) {
+    if (window.pageYOffset > 0) {
+      el2.classList.add('active');
+    } else {
+      el2.classList.remove('active');
+    }
+  }
+
+</script><script>
+  // vars
+  var pageSections = document.querySelectorAll('.section');
+  // headline title of FAQ section
+  var faqHeadline = 'Frequently asked questions';
+  // make sure FAQ icons have this alt text
+  var faqIcons = document.querySelectorAll('img[alt="faq-icon"]');
+  // questions length, if faqIcons is undefined, 2nd param will be used
+  var faqLength = findFAQLength(faqIcons, 5);
+
+  // set up FAQ classes 1st
+  document.addEventListener('DOMContentLoaded', function () {
+    addFAQClasses(pageSections, faqStart(pageSections, faqHeadline), faqLength);
+  });
+
+  // add functionality 2nd
+  window.addEventListener('load', function () {
+    // NOTE: vars (must init after addFAQclasses())
+    var questions = document.querySelectorAll('.question');
+    var answers = document.querySelectorAll('.answer');
+
+    // add dropdown functionality
+    Array.prototype.forEach.call(questions, function (question) {
+      question.addEventListener('click', function (e) {
+        if (!this.classList.contains('active')) {
+          removeActives(questions);
+          removeActives(answers);
+          clearInlineStyles(answers);
+
+          this.classList.remove('active');
+        }
+        toggleMaxHeight(this.nextElementSibling)
+        this.classList.toggle('active');
+      })
+    });
+  });
+
+  /**
+* findFAQLength()
+* @param questionIcons (NodeList)
+* @param backupLength (number)
+* @returns number - length of nodeList, or a specified number of nodeList does not exist
+*/
+  function findFAQLength(questionIcons, backupLength) {
+    if (questionIcons.length > 0) {
+      return questionIcons.length;
+    } else {
+      return backupLength;
+    }
+  }
+
+  /**
+   * addFAQClasses()
+   * add q&a classes starting at a .section el index
+   * @param elements (NodeList)
+   * @param sectionIndex (number)
+   * @param faqLength (number)
+   */
+  function addFAQClasses(elements, sectionIndex, elementsLength) {
+    var counter = 1;
+    for (let i = 0; i < elementsLength; i++) {
+      elements[sectionIndex + (counter++)].classList.add('question');
+      elements[sectionIndex + (counter++)].classList.add('answer');
+    }
+  }
+
+  /**
+   * faqStart()
+   * returns .section index that contains a certain string
+   * @param elements (NodeList)
+   * @param headline (string)
+   */
+  function faqStart(elements, headline) {
+    var index = 0;
+    Array.prototype.forEach.call(elements, function (el, i) {
+      if (el.textContent.toLowerCase().indexOf(headline.toLowerCase()) > -1) {
+        index = i;
+      }
+    });
+    return index;
+  }
+
+  /**
+   * removeActives()
+   * clears .active class from NodeList
+   * @param elements (NodeList)
+   */
+  function removeActives(elements) {
+    Array.prototype.forEach.call(elements, function (el) {
+      el.classList.remove('active');
+    });
+  }
+
+  /**
+   * clearInlineStyles()
+   * clears inline styles from NodeList
+   * @param elements (NodeList)
+   */
+  function clearInlineStyles(elements) {
+    Array.prototype.forEach.call(elements, function (el) {
+      el.removeAttribute('style');
+    });
+  }
+
+  /**
+   * toggleMaxHeight()
+   * toggle maxHeight for accordion functionality
+   * @param elements (NodeList)
+   */
+  function toggleMaxHeight(element) {
+    if (element.style.maxHeight) {
+      element.style.maxHeight = null;
+    } else {
+      element.style.maxHeight = element.scrollHeight + 'px';
+    }
+  }
+</script><!-- sticky footer -->
+<script>
+  (function () {
+
+    // vars
+    var stickyFooter = document.querySelector('.section:nth-last-child(1)');
+    var stickyFooterBtn = stickyFooter.querySelector('.btn');
+    var stickyStops = true;
+    var lastCTASection = document.querySelector('.section:nth-last-child(3)');
+    var lastCTA = document.querySelector('.section:nth-last-child(3) .btn');
+    var heroSection = document.querySelector('.section:nth-child(3)');
+    var timeout;
+
+    // Listen for scroll events
+    window.addEventListener('scroll', function (event) {
+      // If there's a timer, cancel it
+      if (timeout) {
+        window.cancelAnimationFrame(timeout);
+      }
+      // Setup the new requestAnimationFrame()
+      timeout = window.requestAnimationFrame(function () {
+        // Run our scroll functions
+        if (stickyStops) {
+          runStickyFunctions();
+        }
+      });
+
+    }, false);
+
+    window.addEventListener('resize', debounce(function () {
+      runStickyFunctions();
+    }, 250));
+
+    document.addEventListener('DOMContentLoaded', function () {
+      // add classes
+      stickyFooter.classList.add('sticky-footer');
+      // update sticky els positions based on viewport
+      runStickyFunctions();
+      // if not mobile, hide lastCTA
+    });
+
+    function runStickyFunctions() {
+      if (isMobile() && stickyStops) {
+        updateStickyPosition(stickyFooter, true, true);
+        checkFooterOffset(stickyFooter, stickyFooterBtn, lastCTA);
+        lastCTASection.style.display = 'block';
+      } else if (isMobile() && !stickyStops) {
+        updateStickyPosition(stickyFooter, true, false);
+        lastCTASection.style.display = 'block';
+      } else {
+        updateStickyPosition(stickyFooter, false, false);
+        lastCTASection.style.display = 'none';
+      }
+    }
+
+    // when el2 is below el1, add .active class
+    function activeWhenBelowEl(el1, el2) {
+      if (window.pageYOffset > (window.pageYOffset + el1.getBoundingClientRect().bottom)) {
+        el2.classList.add('active');
+      } else {
+        el2.classList.remove('active');
+      }
+    }
+
+    // check when to show/hide sticky footer
+    function checkFooterOffset(footer, footerBtn, cta) {
+      var stickyFooterOffset = (footer.offsetHeight - footerBtn.offsetHeight) / 2;
+      if ((getRectPosition(footer).bottom + document.body.scrollTop) + footer.offsetHeight >= (getRectPosition(cta).bottom + document.body.scrollTop) + stickyFooterOffset) {
+        footer.classList.add('invisible');
+      }
+      if (document.body.scrollTop + window.innerHeight < (getRectPosition(cta).bottom + document.body.scrollTop) + stickyFooterOffset) {
+        footer.classList.remove('invisible');
+      }
+    }
+
+    // gets bounding client position
+    function getRectPosition(el) {
+      var rect = el.getBoundingClientRect();
+      return {
+        top: rect.top,
+        bottom: rect.bottom
+      };
+    }
+
+    /**
+     * Update margin-top or margin-bottom according to sticky el size and params
+     * @param el (node) - the sticky element
+     * @param isStickyBottom (boolean) - if mobile adjust margin-bottom, reset margin-top
+     * @param doesStop (boolean) - if on mobile, the sticky el stops before end of page
+     */
+    function updateStickyPosition(el, isStickyBottom, doesStop) {
+      if (isStickyBottom && doesStop) {
+        document.querySelector('body').style.marginTop = '0px';
+        document.querySelector('body').style.marginBottom = '0px';
+      } else if (isStickyBottom && !doesStop) {
+        document.querySelector('body').style.marginTop = '0px';
+        document.querySelector('body').style.marginBottom = el.clientHeight + 'px';
+      } else {
+        document.querySelector('body').style.marginBottom = '0px';
+      }
+    }
+
+    // check for mobile
+    function isMobile() {
+      if (window.innerWidth < 768) {
+        return true;
+      } else {
+        return false;
+      }
+    }
+
+    // debounce helper fn
+    function debounce(func, wait, immediate) {
+      var timeout;
+      return function () {
+        var context = this, args = arguments;
+        var later = function () {
+          timeout = null;
+          if (!immediate) func.apply(context, args);
+        };
+        var callNow = immediate && !timeout;
+        clearTimeout(timeout);
+        timeout = setTimeout(later, wait);
+        if (callNow) func.apply(context, args);
+      };
+    };
+  })();
+
+</script>
+<!-- end custom FOOTER code-->
+
+
+  <script   src="//g.fastcdn.co/js/Cradle.14973f8f195e25e002ff.js"></script>
+  <script  async defer src="//g.fastcdn.co/js/LazyImage.77b7aec17419c3045fee.js"></script>
+  <script   src="//g.fastcdn.co/js/Links.c1a9dcf75cfbd1ae01c0.js"></script>
+  <script  async src="https://heatmap-events-collector.instapage.com/static/lib.js"></script>
+
+<!-- Generated at: 2024-11-09T12:10:51.581Z -->
+<!--
+
+-->
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8eb92649ace50521',t:'MTczMzExOTc4MS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+</html>
